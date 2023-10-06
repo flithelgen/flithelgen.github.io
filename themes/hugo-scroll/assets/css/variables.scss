@@ -7,7 +7,7 @@
     --highlight-contrast: var(--cover-text-color);
     /*iverse colors used for :hover */
     --highlight-inverse: var(--cover-text-color);
-    --highlight-inverse-contrast: rgb(218, 18, 18);
+    --highlight-inverse-contrast: rgb(247, 241, 241);
 
     /* visual guard around title and description, when the feature is enabled */
     --cover-title-and-description-guard-bg-color: rgba(255, 255, 255, 0.6);
@@ -27,7 +27,7 @@
     /* Dark section - text color */
     --section-dark-text-color: var(--section-light-bg-color);
     /* Dark section - background color */
-    --section-dark-bg-color: #ca6280;
+    --section-dark-bg-color: #cea0d8;
 
     /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
     --section-uni-quote: grey;
