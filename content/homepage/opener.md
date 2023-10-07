@@ -1,6 +1,9 @@
 ---
-title: "Welcome"
+title: "Välkommen"
 weight: 1
+header_menu_title: "Välkommen"
+navigation_menu_title: "Välkommen"
+header_menu: true
 ---
 
 `Hugo-Scroll` theme alternates colors of sections that are placed on single page. 

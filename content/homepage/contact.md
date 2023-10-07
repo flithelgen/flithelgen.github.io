@@ -1,6 +1,8 @@
 ---
-title: "Contact"
+title: "Kontakta oss"
 weight: 4
+header_menu_title: "Kontakta oss"
+navigation_menu_title: "Kontakta oss"
 header_menu: true
 ---
 
@@ -8,4 +10,4 @@ header_menu: true
 
 {{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
 
-Let us get in touch!
+Hör gärna av er vid funderingar!

@@ -1,7 +1,7 @@
 ---
-title: "The Services I Offer"
-header_menu_title: "Services"
-navigation_menu_title: "My Services"
+title: "Vad är flickor i teknik?"
+header_menu_title: "Flit"
+navigation_menu_title: "Flit"
 weight: 2
 header_menu: true
 ---
