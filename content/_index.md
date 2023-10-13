@@ -6,11 +6,11 @@ header_image: "images/jorden.jpg"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/chef-hat.png"
+header_logo: "images/g3.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Flickor i teknik"
-header_subheadline: "Teknik är <b>kul</b> & <b>spännande</b>"
+#header_headline: "Flickor i teknik"
+#header_subheadline: "Teknik är <b>kul</b> & <b>spännande</b>"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
