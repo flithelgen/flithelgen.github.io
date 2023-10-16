@@ -8,7 +8,7 @@
   --highlight-inverse: var(--cover-text-color);
   --highlight-inverse-contrast: rgb(0, 0, 0);
   /* visual guard around title and description, when the feature is enabled */
-  --cover-title-and-description-guard-bg-color: rgba(209, 196, 196, 0.6);
+  --cover-title-and-description-guard-bg-color: rgb(209, 196, 196);
   --cover-title-text-shadow: rgb(0, 0, 0) 0px 0px 7px;
   /* === sticky top/left navigation menus === */
   --sticky-menu-text-color: #ff8fb4;
@@ -20,7 +20,7 @@
   /* Dark section - text color */
   --section-dark-text-color: var(--section-light-bg-color);
   /* Dark section - background color */
-  --section-dark-bg-color: #4e3653d3;
+  --section-dark-bg-color: #4e3653;
   /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
   --section-uni-quote: grey;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
@@ -204,7 +204,7 @@ a.fn-item {
   padding-top: 4rem;
   height: 70%;
   word-break: break-word;
-  hyphens: auto; }
+  /*hyphens: auto;*/ }
 
 /* ======= Single pages =========== */
 .page-template {

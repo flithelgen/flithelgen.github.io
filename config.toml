@@ -53,3 +53,8 @@ title = "Flithelgen- flickor i teknik"
     
     [params.meta]
         keywords = "flithelgen, flickor i teknik, flithelgen anmälan"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true

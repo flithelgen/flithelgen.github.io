@@ -20,26 +20,26 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
 Många känner nog till att på teknik ingår programmering, men visste du att man också har möjlighet att lära sig om datorers uppbyggnad? På IP lär man sig att programmera med hjälp av olika program men även hur man bygger ihop en dator (man får mycket hjälp om man aldrig ens sett insidan av en dator förut) och hur nätverk fungerar. Inom mekatronik-kursen som ingår i IP lär man sig om digitalteknik, binära tal samt ellära. 
 
 ### Anmäla sig
-Vem kan anmäla sig?
+*Vem kan anmäla sig?*
 
 Är du flicka eller ickebinär född 2008-2009 är du välkommen att anmäla dig. Du behöver inga teknikkunskaper alls.
 
-Hur anmäler man sig?
+*Hur anmäler man sig?*
 
 Längre ner på hemsidan finns en rubrik som heter “Anmälan” och där anmäler man sig. Annars går det bra att anmäla sig via mail flithelgen@gmail.com. 
 
 ----
 
 ### Detaljer
-När?
+*När?*
 
 Flithelgen tar plats v.3 20-21 januari 2024. Starttid skickas ut till anmälda senast två veckor innan eventet.
 
-Vad?
+*Vad?*
 
 På två dagar kommer flickor och ickebinära födda 2008 samt 2009 ta del av olika teknik-aktiviteter.
 
-<b>Var?</b>
+*Var?*
 
 Västermalms skola:
 Universitetsallén 17
