@@ -9,7 +9,7 @@ header_menu: true
 
 Flithelgen är två dagar, lördag till söndag, där tjejer i trean kommer att introducera olika moment som ingår i teknikprogrammet. Dessa moment kommer både från de olika inriktningarna inom teknik men också de moment som alla på teknikprogrammet har gått igenom. Tjejerna som kommer till flithelgen kommer att få testa på dessa moment med hjälp av arrangörerna. Inga förkunskaper krävs. Syftet med helgen är att sprida kunskap om hur kul teknik kan vara. Många väljer bort teknik på grund av okunskap om vad teknikprogrammet erbjuder. 
 
-Det bästa med teknik? Du behöver inga förkunskaper alls! Ett plus är dock att man har lagom lätt för matte, fysik och kemi. 
+Det bästa med teknik? Du behöver inga förkunskaper alls! Ett plus är dock att man har lagom lätt för matte, fysik och kemi. Men det behövs inte under flithelgen.
 
 ### Design
 
@@ -19,7 +19,7 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
 
 Många känner nog till att på teknik ingår programmering, men visste du att man också har möjlighet att lära sig om datorers uppbyggnad? På IP lär man sig att programmera med hjälp av olika program men även hur man bygger ihop en dator (man får mycket hjälp om man aldrig ens sett insidan av en dator förut) och hur nätverk fungerar. Inom mekatronik-kursen som ingår i IP lär man sig om digitalteknik, binära tal samt ellära. 
 
-### Anmälan
+### Anmäla sig
 Vem kan anmäla sig?
 
 Är du flicka eller ickebinär född 2008-2009 är du välkommen att anmäla dig. Du behöver inga teknikkunskaper alls.
