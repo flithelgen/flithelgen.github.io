@@ -48,7 +48,7 @@ Observera att fälten martkerade med * är obligatoriska. Det gäller även vid 
 <br>
 
 <label>Allergi?</label> <br>
-        <input type="text" placeholder="" class="form-input" name="entry.1660698277" required>
+        <input type="text" placeholder="" class="form-input" name="entry.1660698277" >
         <br>
 <br>
 
