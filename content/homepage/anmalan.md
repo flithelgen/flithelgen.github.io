@@ -5,7 +5,7 @@ header_menu: true
 header_menu_title: "Anmälan"
 navigation_menu_title: "Anmälan"
 ---
-Är du flicka eller ickebinär född 2008-2009 är du välkommen att anmäla dig nedan. Annars går det bra att anmäla sig via mail: flithelgen@gmail.com
+Är du flicka eller ickebinär född 2008-2009 (eller går i 8:an eller 9:an) är du välkommen att anmäla dig nedan. Annars går det bra att anmäla sig via mail: flithelgen@gmail.com
 
 Observera att fälten martkerade med * är obligatoriska. Det gäller även vid anmälning via mail.
 
@@ -30,7 +30,12 @@ Observera att fälten martkerade med * är obligatoriska. Det gäller även vid 
    <label>Telefonnummer*</label> <br>
         <input type="tel" placeholder="" class="form-input" name="entry.1032050923" required></input>
         <br>
-<label>Övrigt(ev. allergier mm.)</label> <br>
+
+<label>Allergi?*(vid allergi svara ja+vilken allergi. Ingen allergi? Svara nej)</label> <br>
+        <input type="text" placeholder="" class="form-input" name="entry.754322292" required>
+        <br>
+
+<label>Övrigt</label> <br>
         <textarea type="text" placeholder="" class="form-text" name="entry.1660698277" ></textarea>
         <br>
 
