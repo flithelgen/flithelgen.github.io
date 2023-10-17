@@ -17,6 +17,6 @@ Elin J läste design i tvåan och nu i trean läser hon samhällsbyggande, vilke
 
 Angelina valde informations-och medieteknik samt produktions teknik år 2. Numera år 3 pluggar hon teknikvetenskap med planer på att eventuellt studera ett fjärde år på skolan.
 
-<!-->> The belly rules the mind. --- spanish proverb-->
+<!-- The belly rules the mind. --- spanish proverb-->
 
 Hoppas vi ses på flithelgen!

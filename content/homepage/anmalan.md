@@ -23,20 +23,39 @@ Observera att fälten martkerade med * är obligatoriska. Det gäller även vid 
         <input type="text" placeholder="" class="form-input" name="entry.754322292" required>
         <br>
 
+   <label>Telefonnummer*</label> <br>
+        <input type="tel" placeholder="" class="form-input" name="entry.1032050923" required></input>
+        <br>
+        
+<br>
+
   <label>Epost-adress*</label> <br>
         <input type="email" placeholder="" class="form-input" name="entry.748088617" required>
         <br>
 
-   <label>Telefonnummer*</label> <br>
-        <input type="tel" placeholder="" class="form-input" name="entry.1032050923" required></input>
+<br>
+
+ <label>Namn+telefonnummer till närmast anhörig</label> <br>
+        <input type="text" placeholder="" class="form-input" name="entry.256356280" required>
         <br>
 
-<label>Allergi?*(vid allergi svara ja+vilken allergi. Ingen allergi? Svara nej)</label> <br>
-        <input type="text" placeholder="" class="form-input" name="entry.754322292" required>
+<br>
+
+ <label>Vilken årskurs går du i?(8 eller 9)*</label> <br>
+        <input type="text" placeholder="" class="form-input" name="entry.1057051356" required>
         <br>
+
+<br>
+
+<label>Allergi?</label> <br>
+        <input type="text" placeholder="" class="form-input" name="entry.1660698277" required>
+        <br>
+<br>
+
 
 <label>Övrigt</label> <br>
         <textarea type="text" placeholder="" class="form-text" name="entry.1660698277" ></textarea>
+        <br>
         <br>
 
    <input type="submit" class="submit" value="Skicka in">
