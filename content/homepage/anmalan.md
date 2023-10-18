@@ -22,6 +22,7 @@ Observera att fälten martkerade med * är obligatoriska. Det gäller även vid 
   <label>För- och efternamn*</label> <br>
         <input type="text" placeholder="" class="form-input" name="entry.754322292" required>
         <br>
+        <br>
 
    <label>Telefonnummer*</label> <br>
         <input type="tel" placeholder="" class="form-input" name="entry.1032050923" required></input>
