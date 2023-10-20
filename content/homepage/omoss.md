@@ -9,7 +9,7 @@ Vi som driver FLIT i år heter Amira, Elin M, Majalisa, Elin J och Angelina. Vå
 
 Amira valde design det andra året. Nu i trean läser hon design och produktutveckling. Efter gymnasiet vill hon plugga vidare som industridesigner.
 
-Elin M gick informations-och medieteknik samt produktions teknik hennes andra år på gymnasiet. Nu i det tredje året läser hon teknikvetenskap och efter studentet rycker hon in i lumpen som tekniker.
+Elin M gick informations-och medieteknik samt produktions teknik hennes andra år på gymnasiet. Nu i det tredje året läser hon teknikvetenskap och efter studenten rycker hon in i lumpen som tekniker.
 
 Majalisa gick design andra året och tredje året valde hon design och produktutveckling. Efter gymnasiet ska hon jobba.
 

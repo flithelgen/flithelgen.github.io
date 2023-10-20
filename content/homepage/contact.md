@@ -1,6 +1,6 @@
 ---
 title: "Kontakta oss"
-weight: 4
+weight: 5
 header_menu_title: "Kontakta oss"
 navigation_menu_title: "Kontakta oss"
 header_menu: true

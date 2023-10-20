@@ -13,11 +13,11 @@ Det bästa med teknik? Du behöver inga förkunskaper alls!
 
 ### Design
 
-Visste du att på teknikprogrammet har man möjlighet att lära sig att designa produkter? På design får man lära sig om olika program där man kan designa men även bygga 3D modeller. Man lär sig olika rittekniker, skapa bilder med olika typer av verktyg, allt från bläck till akvarellfärg. Man övar även på att redigera bilder professionellt i photoshop och InDesign mm.
+
 
 ### Informations- och medieteknik & Produktionsteknik
 
-Många känner nog till att på teknik ingår programmering, men visste du att man också har möjlighet att lära sig om datorers uppbyggnad? På IP lär man sig att programmera med hjälp av olika program men även hur man bygger ihop en dator (man får mycket hjälp om man aldrig ens sett insidan av en dator förut) och hur nätverk fungerar. Inom mekatronik-kursen som ingår i IP lär man sig om digitalteknik, binära tal samt ellära. 
+Under helgen kommer deltagrna att få testa på att programmera LEGO mindstorms-robotar. Deltagarna får även en rundtur i datorsalen samt i serverrummet på skolan.
 
 ### Anmäla sig
 *Vem kan anmäla sig?*
@@ -37,7 +37,7 @@ Flithelgen tar plats v.3 20-21 januari 2024. Starttid skickas ut till anmälda s
 
 *Vad?*
 
-På två dagar kommer flickor och ickebinära födda 2008 samt 2009 ta del av olika teknik-aktiviteter.
+På två dagar kommer flickor och ickebinära födda 2008 samt 2009 ta del av olika teknik-aktiviteter. Vi bjuder på mat och fika (vid anmälning, säg gärna till om du har allergi).
 
 *Var?*
 

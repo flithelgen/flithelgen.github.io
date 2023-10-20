@@ -1,6 +1,6 @@
 ---
 title: "Anmälan"
-weight: 9
+weight: 4
 header_menu: true
 header_menu_title: "Anmälan"
 navigation_menu_title: "Anmälan"
