@@ -13,11 +13,11 @@ Det bästa med teknik? Du behöver inga förkunskaper alls!
 
 ### Design
 
-
+Under hlgen kommer deltagarna att få testa CAD mm som visar upp deisgn-sidan av teknik.
 
 ### Informations- och medieteknik & Produktionsteknik
 
-Under helgen kommer deltagrna att få testa på att programmera LEGO mindstorms-robotar. Deltagarna får även en rundtur i datorsalen samt i serverrummet på skolan.
+Deltagrna att få testa på att programmera. De kommer även få se våra servrar samt datorer som vi jobbar med.
 
 ### Anmäla sig
 *Vem kan anmäla sig?*

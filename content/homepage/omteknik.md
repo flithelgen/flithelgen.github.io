@@ -6,7 +6,7 @@ header_menu_title: "Teknik"
 navigation_menu_title: "Teknik"
 ---
 
-Teknik är en omfattande linje som ger behörighet till de flesta högre utbildningarna. Inom teknikprogrammet finns det olika inriktningar man kan välja mellan. Det första året läser alla teknikelever samma kurser. Det andra året väljer man antingen design eller informations- och medieteknik & produktionsteknik, lite längre ner hittar du information om dessa inriktningar. I det tredje året kan respektive inriktning välja på två olika fortsatta studier beroende på vad man läste i tvåan. Det finns även ett gemensamt val som kallas teknikvetenskap. Där läser man kurser som ger behörighet till civilingenjörsutbildningar. För dem som läste Informations- och medieteknik & produktionsteknik i tvåan finns det även möjlighet att välja ett fjärde år. För många innebär det fjärde året en garanterad arbetsposition efter gymnasiet.
+Teknik är en omfattande linje som ger behörighet till de flesta högre utbildningarna. Inom teknikprogrammet finns det olika inriktningar man kan välja mellan. Det första året läser alla teknikelever samma kurser. Det andra året väljer man antingen design eller informations- och medieteknik & produktionsteknik, lite längre ner hittar du information om dessa inriktningar. I det tredje året kan respektive inriktning välja på två olika fortsatta studier inom samma inriktning. Det finns även ett gemensamt val som kallas teknikvetenskap. Där läser man kurser som ger behörighet till civilingenjörsutbildningar. För dem som läste Informations- och medieteknik & produktionsteknik i tvåan finns det även möjlighet att välja ett fjärde år. För många innebär det fjärde året en garanterad arbetsposition efter gymnasiet.
 
 ### Informations- och medieteknik & Produktionsteknik
 

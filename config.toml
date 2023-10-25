@@ -52,7 +52,9 @@ title = "Flithelgen- flickor i teknik"
     invertSectionColors = false
     
     [params.meta]
-        keywords = "flithelgen, flickor i teknik, flithelgen anmälan"
+        keywords = "flithelgen, flickor i teknik, flithelgen anmälan, flickor, teknik, flithelg, flit helg, västermalms skola, västermalm"
+        description="Flickor i teknik- info om flithelg!"
+
 
 [markup]
 [markup.goldmark]
