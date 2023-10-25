@@ -13,7 +13,7 @@ Det bästa med teknik? Du behöver inga förkunskaper alls!
 
 ### Design
 
-Under hlgen kommer deltagarna att få testa CAD mm som visar upp deisgn-sidan av teknik.
+Under helgen kommer deltagarna att få testa CAD mm som visar upp deisgn-sidan av teknik.
 
 ### Informations- och medieteknik & Produktionsteknik
 
