@@ -21,8 +21,6 @@ Just nu är ca en fjärdedel av alla som går teknik tjejer och ickebinära.
 
 ![](images/girlsen.jpg)-->
 
-Want to learn more about my services? See [dedicated page] with more details.
-
 
 {{< rawhtml >}}
 
