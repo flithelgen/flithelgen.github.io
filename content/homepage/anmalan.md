@@ -57,8 +57,10 @@ Observera att fälten martkerade med * är obligatoriska. Det gäller även vid 
 <label>Övrigt</label> <br>
         <textarea type="text" placeholder="" class="form-text" name="entry.1660698277" ></textarea>
         <br>
-        <br>
+        
 
+Observera att det tar några sekunder för svaret att skickas, tryck endast på skicka-knappen en gång. Får du ingen bekräftelse att din anmälan har gått igenom inom 10 sekunder, tryck igen.
+<br>
    <input type="submit" class="submit" value="Skicka in">
 </form>
 

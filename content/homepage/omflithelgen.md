@@ -17,12 +17,12 @@ Under helgen kommer deltagarna att få testa CAD mm som visar upp deisgn-sidan a
 
 ### Informations- och medieteknik & Produktionsteknik
 
-Deltagrna att få testa på att programmera. De kommer även få se våra servrar samt datorer som vi jobbar med.
+Deltagarna att få testa på att programmera. De kommer även få se våra servrar samt datorer som vi jobbar med.
 
 ### Anmäla sig
 *Vem kan anmäla sig?*
 
-Är du flicka eller ickebinär som går i årskur 8-9 är du välkommen att anmäla dig. Du behöver inga teknikkunskaper alls.
+Är du flicka eller ickebinär som går i årskurs 8-9 är du välkommen att anmäla dig. Du behöver inga teknikkunskaper alls.
 
 *Hur anmäler man sig?*
 
@@ -37,11 +37,13 @@ Flithelgen tar plats v.3 20-21 januari 2024. Starttid skickas ut till anmälda s
 
 *Vad?*
 
-På två dagar kommer flickor och ickebinära födda 2008 samt 2009 ta del av olika teknik-aktiviteter. Vi bjuder på mat och fika (vid anmälning, säg gärna till om du har allergi).
+Under två dagar kommer flickor och ickebinära födda 2008 samt 2009 ta del av olika teknik-aktiviteter. Vi bjuder på mat och fika (vid anmälning, säg gärna till om du har allergi).
 
 *Var?*
 
-Västermalms skola:
+**Västermalms skola**
+<br>
 Universitetsallén 17
-852 34 Sundsvall
+<br>
+Sundsvall 852 34 
 

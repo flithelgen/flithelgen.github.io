@@ -11,14 +11,47 @@ Flickor i teknik är ett gymnasiearbete med syfte att informera tjejer och icke-
 
 ### Historia
 
-This is not an easy task. 
-You will likely have to pay money for this.
+Text.
 
-### Chef Consulting
+### Nutid
 
-I can raise your table culture!
+Just nu är ca en fjärdedel av alla som går teknik tjejer och ickebinära. 
 
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
+<!--![](images/girlarm2.PNG)
+
+![](images/girlsen.jpg)-->
 
 Want to learn more about my services? See [dedicated page] with more details.
 
+
+{{< rawhtml >}}
+
+
+<style>
+    .row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 5px;
+}
+    </style>
+
+
+
+
+<div class="row">
+  <div class="column">
+    <img src="images/girlsen.jpg" alt="girl" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/girlarm2.PNG" alt="arm" style="width:100%">
+  </div>
+  </div>
+  
+     {{< /rawhtml >}}
+    
+
+Tjejer i årskurs två plockar isär en dator.
