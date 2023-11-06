@@ -11,11 +11,11 @@ Flickor i teknik är ett gymnasiearbete med syfte att informera tjejer och icke-
 
 ### Historia
 
-Text.
+Hur kom FLIT till egentligen? Information kommer inom kort.
 
 ### Nutid
 
-Just nu är ca en fjärdedel av alla som går teknik tjejer och ickebinära. 
+Just nu är majoriteten av teknikare pojkar, men det tillkommer fler och fler tjejer och ickebinära.
 
 <!--![](images/girlarm2.PNG)
 

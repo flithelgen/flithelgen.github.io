@@ -1,6 +1,6 @@
 ---
 title: "Om oss"
-weight: 20
+weight: 8
 header_menu_title: "Om oss"
 navigation_menu_title: "Om oss"
 header_menu: true
