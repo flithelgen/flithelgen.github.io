@@ -6,7 +6,7 @@ header_image: "images/jorden.jpg"
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/g3.png"
+header_logo: "images/fliträtt.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 #header_headline: "Flickor i teknik"
