@@ -11,11 +11,19 @@ Flickor i teknik är ett gymnasiearbete med syfte att informera tjejer och icke-
 
 ### Historia
 
-Hur kom FLIT till egentligen? Information kommer inom kort.
+*Hur kom flit till egentligen?*
+ <br>
+ <br>
+ En av initiativtagarna, Anne-Mi Liljestrand som är lärare i teknik på Västermalm berättar om hur allt började. Tillsammans med kollegan Carina Turton började flit som en sommarkurs där tjejer i årskurs 8 fick testa på olika teknikrelaterade aktiviteter. Kursen erbjöd även föreläsningar samt studiebesök under sina tre dagar. Med inspiration från Bromangymnasiet i Hudiksvall bestämde sig de två kollegorna för att flit skulle bli ett gymnasiearbete. Därför tar flit plats under en helg numera.
+
+Syftet under de tre dagarna var att få fler intresserade av och våga prova på teknik.
+
+Anne-Mi uppmuntrar tjejer att testa teknik. Det är trots allt en bred utbildning som ger möjlighet till många olika typer av jobb. Hon gick teknisk linje men jobbar idag som lärare.
+
 
 ### Nutid
 
-Just nu är majoriteten av teknikare pojkar, men det tillkommer fler och fler tjejer och ickebinära.
+Just nu är majoriteten av teknikare pojkar, men det tillkommer fler och fler tjejer och ickebinära. 
 
 <!--![](images/girlarm2.PNG)
 

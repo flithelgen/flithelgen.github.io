@@ -14,13 +14,13 @@
   --sticky-menu-text-color: #ff8fb4;
   /* === Alternating content (post) sections  === */
   /* Light section - text color */
-  --section-light-text-color: #202325;
+  --section-light-text-color: #070220;
   /* Light section - background color */
   --section-light-bg-color: #f2efe8;
   /* Dark section - text color */
-  --section-dark-text-color: var(--section-light-bg-color);
+  --section-dark-text-color: #070220;
   /* Dark section - background color */
-  --section-dark-bg-color: #4e3653;
+  --section-dark-bg-color: #b3afcf;
   /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
   --section-uni-quote: grey;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
@@ -42,10 +42,12 @@ body {
 /* ===== Cover =======*/
 #blog-logo {
   display: block;
-  max-height: 100px;
+  max-height: 80px;
   width: auto;
   margin: 0 auto;
-  line-height: 0; }
+  line-height: 0;
+  position: relative;
+  top: 40px; }
 
 #site-head.withCenteredImage {
   /* can't be used together with video */
@@ -105,7 +107,8 @@ body {
     overflow: visible;
     padding: 10px 20px 10px 20px;
     position: relative;
-    margin-top: 2rem;
+    margin-top: 10px;
+    bottom: -50px;
     cursor: pointer;
     font-family: "Oswald", sans-serif;
     text-transform: uppercase;
@@ -120,7 +123,7 @@ body {
     position: absolute;
     width: 100%;
     left: 0;
-    bottom: -120px;
+    bottom: -160px;
     cursor: pointer;
     opacity: 0.6;
     transition: all ease 0.3s;
@@ -138,7 +141,7 @@ body {
   display: none;
   flex-direction: column;
   position: fixed;
-  top: 40px;
+  top: 0px;
   z-index: 99999;
   font-family: "Open Sans Condensed", sans-serif;
   text-transform: uppercase;

@@ -5,6 +5,10 @@ header_menu_title: "Om oss"
 navigation_menu_title: "Om oss"
 header_menu: true
 ---
+![](images/flitgirls1.JPG)
+En del av årets flitgäng från de tre olika grupperna. Nedan finns text om dem som håller i flithelgen.
+<br>
+
 Vi som driver FLIT i år heter Amira, Elin M, Majalisa, Elin J och Angelina. Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm. 
 
 Amira valde design det andra året. Nu i trean läser hon design och produktutveckling. Efter gymnasiet vill hon plugga vidare som industridesigner.

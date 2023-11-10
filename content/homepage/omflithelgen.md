@@ -34,7 +34,7 @@ header_menu: true
      {{< /rawhtml >}}
 
 
-Flithelgen är två dagar, lördag och söndag, där tjejer i trean kommer att introducera olika moment som ingår i teknikprogrammet. Dessa moment kommer både från de olika inriktningarna inom teknik men också de moment som alla på teknikprogrammet har gått igenom. Deltagarna som kommer till flithelgen (tjejer och ickebinära som i nuläget går åk 8 eller 9) kommer att få testa på dessa moment med hjälp av arrangörerna. Inga förkunskaper krävs. Syftet med helgen är att sprida kunskap om hur kul teknik kan vara. Många väljer bort teknik på grund av okunskap om vad teknikprogrammet erbjuder. 
+Flithelgen är två dagar, lördag och söndag, där tjejer i trean kommer att visa upp olika moment som ingår i teknikprogrammet. Dessa moment kommer både från de olika inriktningarna inom teknik men också från de kurser som alla på teknikprogrammet har läst. Deltagarna som kommer till flithelgen kommer att få testa på dessa moment med hjälp av arrangörerna. Inga förkunskaper krävs. Syftet med helgen är att sprida kunskap om hur kul teknik kan vara. Många väljer bort teknik på grund av okunskap om vad teknikprogrammet erbjuder och därför vill vi visa vad man kanske missar. 
 
 Det bästa med teknik? Du behöver inga förkunskaper alls! 
 
