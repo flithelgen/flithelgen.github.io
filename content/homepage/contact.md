@@ -10,7 +10,7 @@ header_menu: true
 
 <!--{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)-->
 
-Hör gärna av er vid funderingar!!
+Hör gärna av er vid funderingar!
 
 
 <!--(mailto:your-email@your-domain.com)-->
