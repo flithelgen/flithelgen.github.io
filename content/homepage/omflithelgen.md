@@ -44,7 +44,7 @@ Våra deltagare kommer att få se men även prova på olika typer av programmeri
 ### Anmäla sig
 *Vem kan anmäla sig?*
 
-Är du flicka eller ickebinär som går i årskurs 8-9 är du välkommen att anmäla dig. Du behöver inga teknikkunskaper alls.
+Är du flicka eller ickebinär som går i årskurs 8 eller 9 är du välkommen att anmäla dig. Du behöver inga teknikkunskaper alls.
 
 *Hur anmäler man sig?*
 
@@ -59,7 +59,7 @@ Flithelgen tar plats v.3 20-21 januari 2024. Starttid skickas ut till anmälda s
 
 *Vad?*
 
-Under två dagar kommer flickor och ickebinära födda 2008 samt 2009 ta del av olika teknik-aktiviteter. Vi bjuder på mat och fika (vid anmälning, säg gärna till om du har allergi).
+Under två dagar kommer flickor och ickebinära som går årskurs 8 och 9 del av olika teknik-aktiviteter. Vi bjuder på mat och fika (vid anmälning, säg gärna till om du har allergi).
 
 *Var?*
 

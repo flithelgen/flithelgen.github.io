@@ -60,7 +60,7 @@ Observera att fälten martkerade med * är obligatoriska. Det gäller även vid 
         
 
 
-<p><i>Observera att det tar några sekunder för svaret att skickas, tryck endast på skicka-knappen en gång. Får du ingen bekräftelse att din anmälan har gått igenom inom 10 sekunder, tryck igen.</i></p>
+<p><i>Det kan ta några sekunder för svaret att skickas, tryck endast på skicka-knappen en gång. Får du ingen bekräftelse att din anmälan har gått igenom inom 10 sekunder, tryck igen.</i></p>
 <br>
    <input type="submit" class="submit" value="Skicka in">
 </form>
