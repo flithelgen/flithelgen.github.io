@@ -55,7 +55,7 @@ Observera att fälten martkerade med * är obligatoriska. Det gäller även vid 
 
 
 <label>Övrigt</label> <br>
-        <textarea type="text" placeholder="" class="form-text" name="entry.1660698277" ></textarea>
+        <textarea type="text" placeholder="" class="form-text" rows="10" name="entry.1660698277" ></textarea>
         <br>
         
 
@@ -68,12 +68,14 @@ Observera att fälten martkerade med * är obligatoriska. Det gäller även vid 
 <style>
 .form-input {
       width: 75%;
+      padding: 20px 10px; /*line-height: 20px; */
 }
 .submit {
       width: 20%;
 }
 .form-text{
-      width: 75%
+      width: 75%;
+      padding: 20px 10px;
 }
 </style>
 

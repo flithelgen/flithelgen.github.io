@@ -59,7 +59,7 @@ Flithelgen tar plats v.3 20-21 januari 2024. Starttid skickas ut till anmälda s
 
 *Vad?*
 
-Under två dagar kommer flickor och ickebinära som går årskurs 8 och 9 del av olika teknik-aktiviteter. Vi bjuder på mat och fika (vid anmälning, säg gärna till om du har allergi).
+Under två dagar kommer flickor och ickebinära som går årskurs 8 och 9 ta del av olika teknik-aktiviteter. Vi bjuder på mat och fika (vid anmälning, säg gärna till om du har allergi).
 
 *Var?*
 
