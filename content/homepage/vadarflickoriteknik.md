@@ -9,7 +9,7 @@ Flickor i teknik är ett gymnasiearbete med syfte att informera tjejer och icke-
 <br>
 
 
- ###### *[De olika flitgrupperna](services)*
+ <!-- ###### *[De olika flitgrupperna](services)* -->
 ---
 
 ### Historia
