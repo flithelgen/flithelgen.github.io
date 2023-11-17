@@ -6,7 +6,9 @@ navigation_menu_title: "Om oss"
 header_menu: true
 ---
 ![](images/flitgirls1.JPG)
-Här är en del av årets flitgäng från de tre olika grupperna, läs mer om grupperna [här](services). Nedan finns text om dem som håller i flithelgen.
+Här är en del av årets flitgäng från de tre olika grupperna, läs mer om grupperna 
+<!-- [här](services).  -->
+Nedan finns text om dem som håller i flithelgen.
 <br>
 
 Vi som håller i flithelgen i år heter Amira, Elin M, Majalisa, Elin J och Angelina. Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm. 
