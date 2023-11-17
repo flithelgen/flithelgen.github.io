@@ -1,6 +1,6 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "images/berg1.png"
+header_image: "images/bergg2.png"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
