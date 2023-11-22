@@ -1,8 +1,21 @@
+
+
 {{ define "main" }}
   <main class="content page-template page-{{ .Slug }}">
     <article class="post page">
       <header class="post-header">
+
+        <body>
+          <div
+    class="header-image"></div>
+    <div>
+  <img src="images/jorden.jpg" alt="berg" ></div>
+  
+  </body>
+
+        hwi.
         <a id="blog-logo" href="{{ "/" | relURL }}"><i class="fa fa-chevron-left" aria-hidden="true"></i> {{ .Site.Title }}</a>
+
       </header>
       <h1 class="post-title">{{ .Title }}</h1>
       <section class="post-content">
@@ -10,4 +23,11 @@
       </section>
     </article>
   </main>
+
+
+
+
 {{ end }}
+
+
+
