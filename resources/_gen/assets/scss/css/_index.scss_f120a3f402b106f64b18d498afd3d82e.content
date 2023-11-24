@@ -75,12 +75,20 @@ body {
     top: 0;
     width: auto;
     z-index: -100; }
+  #site-head #presentation-highlights, #site-head.withCenteredImage #presentation-highlights {
+    text-align: center;
+    width: 100%;
+    display: block;
+    margin: auto; }
   #site-head .title-and-description-guard, #site-head.withCenteredImage .title-and-description-guard {
     margin: auto;
     padding: 0.6em;
     background-color: var(--cover-title-and-description-guard-bg-color);
     border-radius: 25px;
     width: fit-content; }
+  #site-head .picky, #site-head.withCenteredImage .picky {
+    position: absolute;
+    padding-inline-start: -50px; }
   #site-head .blog-title, #site-head.withCenteredImage .blog-title {
     margin: 10px 0 10px 0;
     font-size: 5rem;
@@ -206,8 +214,7 @@ a.fn-item {
   padding-bottom: 4rem;
   padding-top: 4rem;
   height: 70%;
-  word-break: break-word;
-  /*hyphens: auto;*/ }
+  word-break: break-word; }
 
 /* ======= Single pages =========== */
 .page-template {

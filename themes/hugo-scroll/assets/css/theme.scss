@@ -18,6 +18,7 @@ body {
 #site-head.withCenteredImage{
   /* can't be used together with video */
   background: var(--section-light-bg-color) no-repeat center center;
+
 }
 
 #site-head, #site-head.withCenteredImage {
@@ -29,6 +30,8 @@ body {
   text-align: center;
   color: var(--cover-text-color);
   background-size: cover;
+
+  
 
   /* Big cover video at the landing area */
   video {
@@ -43,6 +46,13 @@ body {
     width: auto;
     z-index: -100;
   }
+//oklart
+  #presentation-highlights {
+    text-align:center;
+    width:100%;
+    display:block;
+    margin:auto;
+    }
 
   .title-and-description-guard {
     margin: auto;
@@ -50,6 +60,11 @@ body {
     background-color: var(--cover-title-and-description-guard-bg-color);
     border-radius: 25px;
     width: fit-content;
+  }
+
+  .picky{
+    position: absolute;
+    padding-inline-start: -50px;
   }
 
   .blog-title {
@@ -216,7 +231,7 @@ a.fn-item {
   padding-top: 4rem;
   height: 70%;
   word-break: break-word;
-  /*hyphens: auto;*/
+  // hyphens: auto;
 }
 
 /* ======= Single pages =========== */
