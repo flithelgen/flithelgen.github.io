@@ -56,15 +56,15 @@ body {
 
 .cutie-image {
   position: relative;
-  margin-bottom: 100vw; }
+  margin-bottom: 30vw; }
 
 .picky {
   overflow: hidden;
   position: absolute;
   left: -40%;
-  top: -10%;
-  width: 200vw;
-  height: 100vw; }
+  top: 0%;
+  bottom: -50%;
+  aspect-ratio: 16/9 auto; }
 
 #site-head, #site-head.withCenteredImage {
   position: relative;

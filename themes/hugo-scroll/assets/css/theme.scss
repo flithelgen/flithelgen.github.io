@@ -24,7 +24,7 @@ body {
 
 .cutie-image{
   position: relative;
-  margin-bottom: 100vw;
+  margin-bottom: 30vw;
 }
 
 // .picky-container {
@@ -36,9 +36,11 @@ body {
   overflow: hidden;
   position: absolute;
   left: -40%;
-  top: -10%;
-  width: 200vw;
-  height: 100vw;
+  top: 0%;
+  bottom: -50%;
+  // width: 200vw;
+  // height: 50vw;
+  aspect-ratio: 16/9 auto;
   // width:2000px;
   // height:200px;
 }
