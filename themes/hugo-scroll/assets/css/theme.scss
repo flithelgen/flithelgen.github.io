@@ -2,6 +2,7 @@ body {
   --color-text: var(--section-light-text-color);
   --color-background: var(--section-light-bg-color);
 
+  overflow-x: hidden;
 }
 /* ===== Cover =======*/
 
@@ -19,6 +20,27 @@ body {
   /* can't be used together with video */
   background: var(--section-light-bg-color) no-repeat center center;
 
+}
+
+.cutie-image{
+  position: relative;
+  margin-bottom: 100vw;
+}
+
+// .picky-container {
+  // overflow: hidden;
+  // width: 100%;
+// }
+
+.picky {
+  overflow: hidden;
+  position: absolute;
+  left: -40%;
+  top: -10%;
+  width: 200vw;
+  height: 100vw;
+  // width:2000px;
+  // height:200px;
 }
 
 #site-head, #site-head.withCenteredImage {
@@ -62,10 +84,7 @@ body {
     width: fit-content;
   }
 
-  .picky{
-    position: absolute;
-    padding-inline-start: -50px;
-  }
+
 
   .blog-title {
     margin: 10px 0 10px 0;

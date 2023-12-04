@@ -37,7 +37,8 @@
 
 body {
   --color-text: var(--section-light-text-color);
-  --color-background: var(--section-light-bg-color); }
+  --color-background: var(--section-light-bg-color);
+  overflow-x: hidden; }
 
 /* ===== Cover =======*/
 #blog-logo {
@@ -52,6 +53,18 @@ body {
 #site-head.withCenteredImage {
   /* can't be used together with video */
   background: var(--section-light-bg-color) no-repeat center center; }
+
+.cutie-image {
+  position: relative;
+  margin-bottom: 100vw; }
+
+.picky {
+  overflow: hidden;
+  position: absolute;
+  left: -40%;
+  top: -10%;
+  width: 200vw;
+  height: 100vw; }
 
 #site-head, #site-head.withCenteredImage {
   position: relative;
@@ -86,9 +99,6 @@ body {
     background-color: var(--cover-title-and-description-guard-bg-color);
     border-radius: 25px;
     width: fit-content; }
-  #site-head .picky, #site-head.withCenteredImage .picky {
-    position: absolute;
-    padding-inline-start: -50px; }
   #site-head .blog-title, #site-head.withCenteredImage .blog-title {
     margin: 10px 0 10px 0;
     font-size: 5rem;
