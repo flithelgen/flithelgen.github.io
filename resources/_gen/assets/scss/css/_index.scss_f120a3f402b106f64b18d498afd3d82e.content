@@ -40,6 +40,12 @@ body {
   --color-background: var(--section-light-bg-color);
   overflow-x: hidden; }
 
+.back-img {
+  background-image: url("/images/bergsingle.png");
+  height: 400px;
+  margin-top: -100px;
+  background-position: center; }
+
 /* ===== Cover =======*/
 #blog-logo {
   display: block;
@@ -64,7 +70,8 @@ body {
   left: -40%;
   top: 0%;
   bottom: -50%;
-  aspect-ratio: 16/9 auto; }
+  aspect-ratio: 16/9 auto;
+  margin-bottom: 30vw; }
 
 #site-head, #site-head.withCenteredImage {
   position: relative;
@@ -237,7 +244,8 @@ a.fn-item {
   .page-template .post:after {
     display: none; }
   .page-template .post-header {
-    padding: 60px 0; }
+    padding: 60px 0;
+    margin-top: -90px; }
 
 .post-content img {
   display: block;

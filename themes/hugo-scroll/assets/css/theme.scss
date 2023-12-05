@@ -3,6 +3,19 @@ body {
   --color-background: var(--section-light-bg-color);
 
   overflow-x: hidden;
+  
+}
+
+
+// div {
+  // background-image: url("/images/bergsingle.png");
+// }
+
+.back-img {
+background-image: url("/images/bergsingle.png");
+height: 400px;
+margin-top: -100px;
+background-position: center;
 }
 /* ===== Cover =======*/
 
@@ -43,6 +56,7 @@ body {
   aspect-ratio: 16/9 auto;
   // width:2000px;
   // height:200px;
+  margin-bottom: 30vw;
 }
 
 #site-head, #site-head.withCenteredImage {
@@ -276,6 +290,7 @@ a.fn-item {
   // Insert some mad padding up in the header for better spacing
   .post-header {
     padding: 60px 0;
+    margin-top: -90px;
   }
 }
 
