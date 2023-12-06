@@ -96,4 +96,4 @@ Tjejer i årskurs två plockar isär en dator.
 
   Under en lektion i CAD. En busskur gjord av en elev i årsurs tre. 
 <br>
-  Teknik innehåller så mycket mer än vad man tror! 
+  Teknik är så mycket mer än vad man tror! 
