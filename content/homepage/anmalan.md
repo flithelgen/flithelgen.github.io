@@ -9,6 +9,9 @@ navigation_menu_title: "Anmälan"
 
 Observera att fälten martkerade med * är obligatoriska. Det gäller även vid anmälning via mail.
 
+__SISTA ANMÄLNINGSDAG__
+ONSDAG 10 JANUARI 2024
+
 {{< rawhtml >}}
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="form_iframe" id="form_iframe" style="display:none;" onload="
