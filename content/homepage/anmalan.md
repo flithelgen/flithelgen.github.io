@@ -11,6 +11,8 @@ Observera att fälten martkerade med * är obligatoriska. Det gäller även vid 
 
 __SISTA ANMÄLNINGSDAG__
 ONSDAG 10 JANUARI 2024
+<br>
+Det finns 20 platser att fylla. I första hand prioriterar vi de som går i 9:an men efter det är det först till kvarn som gäller!
 
 {{< rawhtml >}}
 <script type="text/javascript">var submitted=false;</script>
