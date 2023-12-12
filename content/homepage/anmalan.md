@@ -13,6 +13,8 @@ __SISTA ANMÄLNINGSDAG__
 ONSDAG 10 JANUARI 2024
 <br>
 Det finns 20 platser att fylla. I första hand prioriterar vi de som går i 9:an men efter det är det först till kvarn som gäller!
+<br>
+När anmälan stänger har man möjlighet att bli reserv, då får man information den 17 januari.
 
 {{< rawhtml >}}
 <script type="text/javascript">var submitted=false;</script>

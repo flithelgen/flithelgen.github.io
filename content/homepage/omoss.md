@@ -7,7 +7,7 @@ header_menu: true
 ---
 ![](images/flitgirls1.JPG)
 Här är en del av årets flitgäng från de tre olika grupperna, läs mer om grupperna 
-<!-- [här](services).  -->
+[här](services). 
 Nedan finns text om dem som håller i flithelgen.
 <br>
 
