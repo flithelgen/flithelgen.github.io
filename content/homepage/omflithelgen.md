@@ -55,7 +55,7 @@ Längre ner på hemsidan finns en rubrik som heter “Anmälan” och där anmä
 ### Detaljer
 *När?*
 
-Flithelgen tar plats v.3 20-21 januari 2024. Starttid skickas ut till anmälda senast två veckor innan eventet.
+Flithelgen tar plats v.3 20-21 januari 2024. Starttid skickas ut till anmälda senast den 10:e januari.
 
 *Vad?*
 
