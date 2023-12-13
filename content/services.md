@@ -9,7 +9,7 @@ header_image: "images/bergg2.png"
 <br>
 Den här delen av FLIT kallas skol besöksgruppen. Vi som håller i skolbesöken i år heter Nora, Emma, Astrid, Agnes och Felicia. Vårt uppdrag är att åka runt till skolor i Sundsvall och föreläsa för tjejer och icke-binära i årskurs 8 och 9 om teknikprogrammet. Vi visar exempel på vad man får göra under de tre åren man går på teknikprogrammet. Vi gör det här för att ta bort fördomarna som finns om teknik och visa att det är så mycket mer än vad man tror. 
 <br>
-
+<img src="forelasning.JPG" width="500" height="600">
 <br>
 
 ## Aktivitetsgruppen
