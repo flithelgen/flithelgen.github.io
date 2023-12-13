@@ -33,10 +33,13 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
 
 <div class="row">
   <div class="column">
-    <img src="images/cadbra.jpg" alt="girl" style="width:100%">
+    <img src="images/desbygg.JPG" alt="girl" style="width:100%">
   </div>
   <div class="column">
-    <img src="images/busshp.jpg" alt="arm" style="width:100%">
+    <img src="images/desvaser3.JPG" alt="arm" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/desritaute.JPG" alt="arm" style="width:100%">
   </div>
   </div>
   
