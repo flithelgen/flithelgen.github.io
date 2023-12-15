@@ -1,8 +1,8 @@
 :root {
   /* === Cover / Landing area === */
-  --cover-text-color: rgb(233, 137, 233);
+  --cover-text-color: rgb(135, 110, 228);
   /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-  --highlight: #2c204b;
+  --highlight: #160e2b;
   --highlight-contrast: var(--cover-text-color);
   /*iverse colors used for :hover */
   --highlight-inverse: var(--cover-text-color);
@@ -41,7 +41,7 @@ body {
   overflow-x: hidden; }
 
 .back-img {
-  background-image: url("/images/bergsingle.png");
+  background-image: url("../images/blabergss.png");
   height: 400px;
   margin-top: -100px;
   background-position: center; }

@@ -1,6 +1,6 @@
 ---
 title: "Flitgrupper"
-header_image: "images/bergg2.png"
+header_image: "../images/blaberg.png"
 ---
 
 <br>
