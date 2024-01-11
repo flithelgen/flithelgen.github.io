@@ -5,9 +5,11 @@ header_menu: true
 header_menu_title: "Anmälan"
 navigation_menu_title: "Anmälan"
 ---
-Är du flicka eller ickebinär som går i 8:an eller 9:an är du välkommen att anmäla dig nedan. Annars går det bra att anmäla sig via mail: flithelgen@gmail.com
+#### <u>Anmälan är stängd!</u>
 
-Observera att fälten martkerade med * är obligatoriska. Det gäller även vid anmälning via mail.
+<!-- Är du flicka eller ickebinär som går i 8:an eller 9:an är du välkommen att anmäla dig nedan. Annars går det bra att anmäla sig via mail: flithelgen@gmail.com 
+
+Observera att fälten martkerade med * är obligatoriska. Det gäller även vid anmälning via mail.-->
 
 __SISTA ANMÄLNINGSDAG__
 ONSDAG 10 JANUARI 2024
@@ -15,15 +17,16 @@ ONSDAG 10 JANUARI 2024
 Det finns 20 platser att fylla. I första hand prioriterar vi de som går i 9:an men efter det är det först till kvarn som gäller!
 <br>
 När anmälan stänger har man möjlighet att bli reserv, då får man information den 17 januari.
-
+<!--  
 {{< rawhtml >}}
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="form_iframe" id="form_iframe" style="display:none;" onload="
       if (submitted) {
             window.location='/tack-for-anmalan';
       }
-"></iframe>
+"></iframe> -->
 
+<!--  
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSf7CnwNi71u01eGmxQ0xRD1BWbDd2MAwvOflVhCbIZRigejpw/formResponse" target="form_iframe" onsubmit="submitted=true">
 
   <label>För- och efternamn*</label> <br>
@@ -87,3 +90,4 @@ När anmälan stänger har man möjlighet att bli reserv, då får man informati
 </style>
 
 {{< /rawhtml >}}
+-->
