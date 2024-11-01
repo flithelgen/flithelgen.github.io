@@ -13,33 +13,30 @@ Det bästa med teknik? Du behöver inga förkunskaper alls!
 
 ### Design
 
-Under hlgen kommer deltagarna att få testa CAD mm som visar upp deisgn-sidan av teknik.
+Under helgen kommer du som deltagare att få testa bland annat att arbeta med programmet CAD.  Vilket är ett program som används om du skulle välja att läsa designinriktningen på teknikprogrammet.
 
 ### Informations- och medieteknik & Produktionsteknik
 
-Deltagrna att få testa på att programmera. De kommer även få se våra servrar samt datorer som vi jobbar med.
+Du som deltagare kommer få möjligheten att testa på att programmera. Utöver det kommer du även få chansen att se de servrar och datorer som används vid programinriktningen.
 
-### Anmäla sig
-*Vem kan anmäla sig?*
+### Hur anmäler man sig?
 
-Är du flicka eller ickebinär som går i årskur 8-9 är du välkommen att anmäla dig. Du behöver inga teknikkunskaper alls.
-
-*Hur anmäler man sig?*
-
-Längre ner på hemsidan finns en rubrik som heter “Anmälan” och där anmäler man sig. Annars går det bra att anmäla sig via mail flithelgen@gmail.com. 
+Du som tjej eller icke-binär har möjligheten att anmäla dig. 
+Mer information om hur du anmäler dig hittar du längre ner på sidan under rubriken 
+“Anmälan”. Det går även bra att anmäla sig via mail: flithelgen@gmail.com. 
 
 ----
 
 ### Detaljer
 *När?*
 
-Flithelgen tar plats v.3 20-21 januari 2024. Starttid skickas ut till anmälda senast två veckor innan eventet.
+Flithelgen tar plats v.4 25-26 januari 2025. Starttid skickas ut till anmälda senast två veckor innan eventet.
 
 *Vad?*
 
-På två dagar kommer flickor och ickebinära födda 2008 samt 2009 ta del av olika teknik-aktiviteter. Vi bjuder på mat och fika (vid anmälning, säg gärna till om du har allergi).
+Under två dagar kommer flickor och icke-binära födda år 2009 och 2010 få ta del av olika teknik-aktiviteter. Vi kommer bjuda på mat och fika så säg gärna till vid anmälan om du har någon allergi.
 
-*Var?*
+*Vart?*
 
 Västermalms skola:
 Universitetsallén 17
