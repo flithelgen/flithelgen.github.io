@@ -5,10 +5,12 @@ header_menu: true
 header_menu_title: "Anmälan"
 navigation_menu_title: "Anmälan"
 ---
-Om du är tjej eller ickebinär och går i årskurs 8 eller 9 är du välkommen att anmäla dig nedan. Annars går det bra att anmäla sig via mail: flithelgen@gmail.com
+
+Du som är tjej eller icke-binär och går i årskurs 8 eller 9 är du välkommen att anmäla dig nedan. Annars går det bra att anmäla sig via mail: flithelgen@gmail.com
+
+Observera att fälten markerade med * är obligatoriska. Det gäller även om du anmäler dig via mail.
 
 #### <u>Anmälan är stängd!</u>
-main
 
 <!-- Om du är tjej eller ickebinär och går i årskurs 8 eller 9 är du välkommen att anmäla dig nedan. Annars går det bra att anmäla sig via mail: flithelgen@gmail.com
 
