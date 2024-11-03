@@ -14,10 +14,8 @@ Många känner nog till att på teknik ingår programmering, men visste du att m
 
 ### Design
 
-andring
 Visste du att på teknikprogrammet har man möjlighet att lära sig att designa produkter? På design får man lära sig om olika program där man kan designa men även bygga 3D-modeller. Man lär sig olika rittekniker, skapa bilder med olika typer av verktyg, allt från bläck till akvarellfärg. Man övar även på att redigera bilder professionellt i photoshop och InDesign mm.
 
-Visste du att på teknikprogrammet har man möjlighet att lära sig att designa produkter? På design får man lära sig om olika program där man kan designa men även bygga 3D modeller. Man lär sig olika rittekniker, skapa bilder med olika typer av verktyg, allt från bläck till akvarellfärg. Man övar även på att redigera bilder professionellt i photoshop och InDesign mm.
 
 {{< rawhtml >}}
 
