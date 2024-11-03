@@ -14,4 +14,37 @@ Många känner nog till att på teknik ingår programmering, men visste du att m
 
 ### Design
 
+andring
 Visste du att på teknikprogrammet har man möjlighet att lära sig att designa produkter? På design får man lära sig om olika program där man kan designa men även bygga 3D-modeller. Man lär sig olika rittekniker, skapa bilder med olika typer av verktyg, allt från bläck till akvarellfärg. Man övar även på att redigera bilder professionellt i photoshop och InDesign mm.
+
+Visste du att på teknikprogrammet har man möjlighet att lära sig att designa produkter? På design får man lära sig om olika program där man kan designa men även bygga 3D modeller. Man lär sig olika rittekniker, skapa bilder med olika typer av verktyg, allt från bläck till akvarellfärg. Man övar även på att redigera bilder professionellt i photoshop och InDesign mm.
+
+{{< rawhtml >}}
+
+
+<style>
+    .row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 5px;
+}
+    </style>
+
+<div class="row">
+  <div class="column">
+    <img src="images/desbygg.JPG" alt="girl" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/desvaser3.JPG" alt="arm" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/desritaute.JPG" alt="arm" style="width:100%">
+  </div>
+  </div>
+  
+     {{< /rawhtml >}}
+main

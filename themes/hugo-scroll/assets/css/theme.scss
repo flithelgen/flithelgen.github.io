@@ -1,20 +1,62 @@
 body {
   --color-text: var(--section-light-text-color);
   --color-background: var(--section-light-bg-color);
+
+  overflow-x: hidden;
+  
+}
+
+
+// div {
+  // background-image: url("/images/bergsingle.png");
+// }
+
+.back-img {
+background-image: url("../images/blabergss.png");
+height: 400px;
+margin-top: -100px;
+background-position: center;
 }
 /* ===== Cover =======*/
 
 #blog-logo {
   display: block;
-  max-height: 100px;
+  max-height: 80px;
   width: auto;
   margin: 0 auto;
   line-height: 0;
+  position: relative;
+  top: 40px;
 }
 
 #site-head.withCenteredImage{
   /* can't be used together with video */
   background: var(--section-light-bg-color) no-repeat center center;
+
+}
+
+.cutie-image{
+  position: relative;
+  margin-bottom: 30vw;
+}
+
+// .picky-container {
+  // overflow: hidden;
+  // width: 100%;
+// }
+
+.picky {
+  overflow: hidden;
+  position: absolute;
+  left: -40%;
+  top: 0%;
+  bottom: -50%;
+  // width: 200vw;
+  // height: 50vw;
+  aspect-ratio: 16/9 auto;
+  // width:2000px;
+  // height:200px;
+  margin-bottom: 30vw;
 }
 
 #site-head, #site-head.withCenteredImage {
@@ -26,6 +68,8 @@ body {
   text-align: center;
   color: var(--cover-text-color);
   background-size: cover;
+
+  
 
   /* Big cover video at the landing area */
   video {
@@ -40,6 +84,13 @@ body {
     width: auto;
     z-index: -100;
   }
+//oklart
+  #presentation-highlights {
+    text-align:center;
+    width:100%;
+    display:block; 
+    margin:auto;
+    }
 
   .title-and-description-guard {
     margin: auto;
@@ -48,6 +99,8 @@ body {
     border-radius: 25px;
     width: fit-content;
   }
+
+
 
   .blog-title {
     margin: 10px 0 10px 0;
@@ -80,7 +133,8 @@ body {
     overflow: visible;
     padding: 10px 20px 10px 20px;
     position: relative;
-    margin-top: 2rem;
+    margin-top: 10px;
+    bottom: -50px;
     cursor: pointer;
     font-family: "Oswald", sans-serif;
     text-transform: uppercase;
@@ -100,7 +154,7 @@ body {
     position: absolute;
     width: 100%;
     left: 0;
-    bottom: -120px;
+    bottom: -160px;
     cursor: pointer;
     opacity: 0.6;
     transition: all ease 0.3s;
@@ -123,7 +177,7 @@ body {
   display: none;
   flex-direction: column;
   position: fixed;
-  top: 40px;
+  top: 0px;
   z-index: 99999;
   font-family: "Open Sans Condensed", sans-serif;
   text-transform: uppercase;
@@ -212,7 +266,7 @@ a.fn-item {
   padding-top: 4rem;
   height: 70%;
   word-break: break-word;
-  /*hyphens: auto;*/
+  // hyphens: auto;
 }
 
 /* ======= Single pages =========== */
@@ -236,6 +290,7 @@ a.fn-item {
   // Insert some mad padding up in the header for better spacing
   .post-header {
     padding: 60px 0;
+    margin-top: -90px;
   }
 }
 

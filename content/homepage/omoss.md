@@ -1,11 +1,21 @@
 ---
 title: "Om oss"
-weight: 20
+weight: 8
 header_menu_title: "Om oss"
 navigation_menu_title: "Om oss"
 header_menu: true
 ---
+andring
 Vi som driver FLIT i år heter ---. Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm. 
+
+![](images/flitgirls1.JPG)
+Här är en del av årets flitgäng från de tre olika grupperna, läs mer om grupperna 
+[här](services). 
+Nedan finns text om dem som håller i flithelgen.
+<br>
+
+Vi som håller i flithelgen i år heter Amira, Elin M, Majalisa, Elin J och Angelina. Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm. 
+ main
 
 -- valde design det andra året. Nu i trean läser hon design och produktutveckling. Efter gymnasiet vill hon plugga vidare som industridesigner.
 

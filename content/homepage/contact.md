@@ -8,6 +8,8 @@ header_menu: true
 
 {{<icon class="fa fa-envelope">}}&nbsp;[flithelgen@gmail.com](mailto:flithelgen@gmail.com)
 
+{{<icon class="fa fa-instagram">}}&nbsp;[@flickoriteknik](https://www.instagram.com/flickoriteknik/)
+
 <!--{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)-->
 
 Hör gärna av er vid funderingar!
