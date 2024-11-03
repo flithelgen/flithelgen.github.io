@@ -8,13 +8,7 @@ header_use_video: false
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
 header_logo: "images/fliträtt.png"
 #
-# Headers are safeHTML, you can use HTML tags such as b,i,u,br
-#header_headline: "Flickor i teknik"
-#header_subheadline: "Teknik är <b>kul</b> & <b>spännande</b>"
 
-# Add a 'Go back to top' item to the navigation menu
-# Title: name of navigation menu entry
-# Weight (i. e. position in menu): none = no menu entry, first = add as first entry, last = ad as last entry
 nav_to_top_title: "Åter till toppen"
 nav_to_top_weight: last
 ---

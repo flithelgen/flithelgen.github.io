@@ -22,6 +22,9 @@ header_menu: true
 
 
 
+andring
+Under helgen kommer du som deltagare att få testa bland annat att arbeta med programmet CAD.  Vilket är ett program som används om du skulle välja att läsa designinriktningen på teknikprogrammet.
+
 <div class="row">
   <div class="column">
     <img src="images/rita.jpg" alt="girl" style="width:100%">
@@ -32,7 +35,11 @@ header_menu: true
   </div>
   
      {{< /rawhtml >}}
+ main
 
+
+ andring
+Du som deltagare kommer få möjligheten att testa på att programmera. Utöver det kommer du även få chansen att se de servrar och datorer som används vid programinriktningen.
 
 Flithelgen är två dagar, lördag och söndag, där tjejer i trean kommer att visa upp olika moment som ingår i teknikprogrammet. Dessa moment kommer både från de olika inriktningarna inom teknik men också från de kurser som alla på teknikprogrammet har läst. Deltagarna som kommer till flithelgen kommer att få testa på dessa moment med hjälp av arrangörerna. Inga förkunskaper krävs. Syftet med helgen är att sprida kunskap om hur kul teknik kan vara. Många väljer bort teknik på grund av okunskap om vad teknikprogrammet erbjuder och därför vill vi visa vad man kanske missar. 
 
@@ -40,28 +47,42 @@ Det bästa med teknik? Du behöver inga förkunskaper alls!
 
 ### Aktiviteter
 Våra deltagare kommer att få se men även prova på olika typer av programmering. Vi kommer tillsammans testa CAD och andra designrelaterade moment. Mer information ges ut till anmälda.
+main
 
-### Anmäla sig
-*Vem kan anmäla sig?*
+### Hur anmäler man sig?
+
+andring
+Du som tjej eller icke-binär har möjligheten att anmäla dig. 
+Mer information om hur du anmäler dig hittar du längre ner på sidan under rubriken 
+“Anmälan”. Det går även bra att anmäla sig via mail: flithelgen@gmail.com. 
 
 Är du flicka eller ickebinär som går i årskurs 8 eller 9 är du välkommen att anmäla dig. Du behöver inga teknikkunskaper alls.
 
 *Hur anmäler man sig?*
 
 Längre ner på hemsidan finns en rubrik som heter “Anmälan” och där anmäler man sig. Annars går det bra att anmäla sig via mail flithelgen@gmail.com. Anmälan via mail behöver innehålla samma obligatoriska uppgifter som anmälan på hemsidan ber om.
+main
 
 ----
 
 ### Detaljer
 *När?*
 
+andring
+Flithelgen tar plats v.4 25-26 januari 2025. Starttid skickas ut till anmälda senast två veckor innan eventet.
+
+*Vad?*
+
+Under två dagar kommer flickor och icke-binära födda år 2009 och 2010 få ta del av olika teknik-aktiviteter. Vi kommer bjuda på mat och fika så säg gärna till vid anmälan om du har någon allergi.
+
 Flithelgen tar plats v.3 20-21 januari 2024. Starttid skickas ut till anmälda senast den 10:e januari.
 
 *Vad?*
 
 Under två dagar kommer flickor och ickebinära som går årskurs 8 och 9 ta del av olika teknik-aktiviteter. Vi bjuder på mat och fika (vid anmälning, säg gärna till om du har allergi).
+ main
 
-*Var?*
+*Vart?*
 
 **Västermalms skola**
 <br>
