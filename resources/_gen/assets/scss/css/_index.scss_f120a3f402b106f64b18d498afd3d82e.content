@@ -1,8 +1,8 @@
 :root {
   /* === Cover / Landing area === */
-  --cover-text-color: #f1f0a4;
+  --cover-text-color: rgb(135, 110, 228);
   /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-  --highlight: #2c204b;
+  --highlight: #160e2b;
   --highlight-contrast: var(--cover-text-color);
   /*iverse colors used for :hover */
   --highlight-inverse: var(--cover-text-color);
@@ -14,13 +14,13 @@
   --sticky-menu-text-color: #ff8fb4;
   /* === Alternating content (post) sections  === */
   /* Light section - text color */
-  --section-light-text-color: #202325;
+  --section-light-text-color: #070220;
   /* Light section - background color */
   --section-light-bg-color: #f2efe8;
   /* Dark section - text color */
-  --section-dark-text-color: var(--section-light-bg-color);
+  --section-dark-text-color: #070220;
   /* Dark section - background color */
-  --section-dark-bg-color: #4e3653;
+  --section-dark-bg-color: #9b96b9;
   /* Light&Dark section >quote. Supressive color, compared to 'Light section - text color'*/
   --section-uni-quote: grey;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
@@ -37,19 +37,41 @@
 
 body {
   --color-text: var(--section-light-text-color);
-  --color-background: var(--section-light-bg-color); }
+  --color-background: var(--section-light-bg-color);
+  overflow-x: hidden; }
+
+.back-img {
+  background-image: url("../images/blabergss.png");
+  height: 400px;
+  margin-top: -100px;
+  background-position: center; }
 
 /* ===== Cover =======*/
 #blog-logo {
   display: block;
-  max-height: 100px;
+  max-height: 80px;
   width: auto;
   margin: 0 auto;
-  line-height: 0; }
+  line-height: 0;
+  position: relative;
+  top: 40px; }
 
 #site-head.withCenteredImage {
   /* can't be used together with video */
   background: var(--section-light-bg-color) no-repeat center center; }
+
+.cutie-image {
+  position: relative;
+  margin-bottom: 30vw; }
+
+.picky {
+  overflow: hidden;
+  position: absolute;
+  left: -40%;
+  top: 0%;
+  bottom: -50%;
+  aspect-ratio: 16/9 auto;
+  margin-bottom: 30vw; }
 
 #site-head, #site-head.withCenteredImage {
   position: relative;
@@ -73,6 +95,11 @@ body {
     top: 0;
     width: auto;
     z-index: -100; }
+  #site-head #presentation-highlights, #site-head.withCenteredImage #presentation-highlights {
+    text-align: center;
+    width: 100%;
+    display: block;
+    margin: auto; }
   #site-head .title-and-description-guard, #site-head.withCenteredImage .title-and-description-guard {
     margin: auto;
     padding: 0.6em;
@@ -105,7 +132,8 @@ body {
     overflow: visible;
     padding: 10px 20px 10px 20px;
     position: relative;
-    margin-top: 2rem;
+    margin-top: 10px;
+    bottom: -50px;
     cursor: pointer;
     font-family: "Oswald", sans-serif;
     text-transform: uppercase;
@@ -120,7 +148,7 @@ body {
     position: absolute;
     width: 100%;
     left: 0;
-    bottom: -120px;
+    bottom: -160px;
     cursor: pointer;
     opacity: 0.6;
     transition: all ease 0.3s;
@@ -138,7 +166,7 @@ body {
   display: none;
   flex-direction: column;
   position: fixed;
-  top: 40px;
+  top: 0px;
   z-index: 99999;
   font-family: "Open Sans Condensed", sans-serif;
   text-transform: uppercase;
@@ -203,8 +231,7 @@ a.fn-item {
   padding-bottom: 4rem;
   padding-top: 4rem;
   height: 70%;
-  word-break: break-word;
-  /*hyphens: auto;*/ }
+  word-break: break-word; }
 
 /* ======= Single pages =========== */
 .page-template {
@@ -217,7 +244,8 @@ a.fn-item {
   .page-template .post:after {
     display: none; }
   .page-template .post-header {
-    padding: 60px 0; }
+    padding: 60px 0;
+    margin-top: -90px; }
 
 .post-content img {
   display: block;
