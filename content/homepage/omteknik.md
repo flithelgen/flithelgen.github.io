@@ -1,5 +1,5 @@
 ---
-title: "Teknikprogrammet"
+title: "Teknikprogrammet Västermalm"
 weight: 2
 header_menu: true
 header_menu_title: "Teknik"
