@@ -68,7 +68,7 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
     <img src="images/Designbild3.JPG" style="width:100%">
   </div>
     <div class="column">
-    <img src="images/IMG_1445.JPG" style="width:100%"> 
+    <img src="images/Designbild4.JPG" style="width:100%"> 
   </div>
 </div>
 
