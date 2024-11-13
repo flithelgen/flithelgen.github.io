@@ -12,6 +12,34 @@ Teknik är ett högskoleförbredande gymnasieprogram som ger behörighet till de
 
 Många känner nog till att på teknik ingår programmering, men visste du att man också har möjlighet att lära sig om datorers uppbyggnad? På IP-inriktningen lär man sig att programmera med hjälp av olika program, men även hur man bygger ihop en dator (man får mycket hjälp om man aldrig ens sett insidan av en dator förut) och hur nätverk fungerar. Inom mekatronik-kursen som ingår i IP lär man sig om digitalteknik, binära tal och ellära. 
 
+
+{{< rawhtml >}}
+
+<style>
+    .row {
+  display: flex;
+}
+
+.column {
+  flex: 25%; 
+  padding: 5px;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <img src="images/Datorinriktning1.JPG" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="images/Datorinriktning2.JPG" style="width:100%">
+  </div>
+   <div class="column">
+    <img src="images/Datorinriktning3.JPG" style="width:100%">
+  </div>
+</div>
+
+{{< /rawhtml >}}
+
 ### Design
 
 Visste du att på teknikprogrammet har man möjlighet att lära sig att designa produkter? På design får man lära sig om olika program där man kan designa men även bygga 3D-modeller. Man lär sig olika rittekniker, skapa bilder med olika typer av verktyg, allt från bläck till akvarellfärg. Man övar även på att redigera bilder professionellt i photoshop och InDesign mm.
