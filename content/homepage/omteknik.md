@@ -34,16 +34,16 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
 
 <div class="row">
   <div class="column">
-    <img src="images/Designbild1.JPG" alt="girl" style="width:100%">
+    <img src="images/Designbild1.JPG" style="width:100%">
   </div>
   <div class="column">
-    <img src="images/Designbild2.JPG" alt="arm" style="width:100%">
+    <img src="images/Designbild2.JPG" style="width:100%">
   </div>
    <div class="column">
-    <img src="images/Designbild3.JPG" alt="arm" style="width:100%">
+    <img src="images/Designbild3.JPG" style="width:100%">
   </div>
      <div class="column">
-    <img src="images/Designbild4.JPG" alt="arm" style="width:100%">
+    <img src="images/Designbild4.JPG" style="width:100%">
   </div>
   </div>
   
