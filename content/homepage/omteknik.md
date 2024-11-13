@@ -25,7 +25,7 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
   display: flex;
 }
 
-/* Create three equal columns that sits next to each other */
+/* De fyra kolumnerna för designinriktningen */
 .column {
   flex: 50%;
   padding: 5px;
@@ -34,15 +34,17 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
 
 <div class="row">
   <div class="column">
-    <img src="images/desbygg.JPG" alt="girl" style="width:100%">
+    <img src="images/Designbild1.JPG" alt="girl" style="width:100%">
   </div>
   <div class="column">
-    <img src="images/desvaser3.JPG" alt="arm" style="width:100%">
+    <img src="images/Designbild2.JPG" alt="arm" style="width:100%">
   </div>
    <div class="column">
-    <img src="images/desritaute.JPG" alt="arm" style="width:100%">
+    <img src="images/Designbild3.JPG" alt="arm" style="width:100%">
+  </div>
+     <div class="column">
+    <img src="images/Designbild4.JPG" alt="arm" style="width:100%">
   </div>
   </div>
   
-     {{< /rawhtml >}}
-main
+
