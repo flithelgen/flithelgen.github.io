@@ -42,9 +42,6 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
    <div class="column">
     <img src="../../static/images/Designbild3.JPG" style="width:100%">
   </div>
-    <div class="column">
-    <img src="../../static/images/Designbild4.JPG" style="width:100%"> 
-  </div>
 </div>
 
 {{< /rawhtml >}}
