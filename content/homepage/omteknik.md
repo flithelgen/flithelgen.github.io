@@ -26,9 +26,9 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
 
 /* De fyra kolumnerna för designinriktningen */
 /* ../../ betyder att man hoppar upp i mappstrukturen för att nå static-mappen*/
+/* ändrar så alla fyra bilder får plats i kolumnen*/
 .column {
-  flex: 25%; /* ändrar så alla fyra bilder får plats i kolumnen*/
-  padding: 5px;
+  flex: 25%; 
 }
     </style>
 
