@@ -24,7 +24,7 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
 }
 
 .column {
-  flex: 50%; 
+  flex: 25%; 
   padding: 5px;
 }
 </style>
@@ -38,6 +38,9 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
   </div>
    <div class="column">
     <img src="../../static/images/Designbild3.JPG" style="width:100%">
+  </div>
+    <div class="column">
+    <img src="../../static/images/IMG_1445.JPG" style="width:100%"> 
   </div>
 </div>
 
