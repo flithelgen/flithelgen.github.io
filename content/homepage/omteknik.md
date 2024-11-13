@@ -18,19 +18,16 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
 
 {{< rawhtml >}}
 
-
 <style>
     .row {
   display: flex;
 }
 
-/* De fyra kolumnerna för designinriktningen */
-/* ../../ betyder att man hoppar upp i mappstrukturen för att nå static-mappen*/
-/* ändrar så alla fyra bilder får plats i kolumnen*/
 .column {
-  flex: 25%; 
+  flex: 50%; 
+  padding: 5px;
 }
-    </style>
+</style>
 
 <div class="row">
   <div class="column">
@@ -41,9 +38,6 @@ Visste du att på teknikprogrammet har man möjlighet att lära sig att designa 
   </div>
    <div class="column">
     <img src="../../static/images/Designbild3.JPG" style="width:100%">
-  </div>
-      <div class="column">
-    <img src="../../static/images/IMG_1445.JPG" style="width:100%"> 
   </div>
 </div>
 
