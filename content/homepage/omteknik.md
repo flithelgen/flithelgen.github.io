@@ -21,7 +21,7 @@ Många känner nog till att på teknik ingår programmering, men visste du att m
 }
 
 .column {
-  flex: 25%; 
+  flex: 50%; 
   padding: 5px;
 }
 </style>
