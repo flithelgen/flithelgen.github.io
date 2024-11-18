@@ -7,7 +7,7 @@ header_menu: true
 {{< rawhtml >}}
 
 
-Flithelgen är två dagar, lördag och söndag, där tjejer som går tredje året på programmet kommer introducera de olika momenten som ingår i teknikprogrammet. Dessa moment kommer både från de olika programinriktningarna inom teknik men även vissa moment som alla läser programmet. Deltagarna som kommer till flithelgen (tjejer och ickebinära som i nuläget går åk 8 eller 9) kommer att få testa på dessa moment med hjälp av arrangörerna. Inga förkunskaper krävs. Syftet med helgen är att sprida kunskap om hur kul teknik kan vara, detta då många väljer bort teknik på grund av okunskap om vad teknikprogrammet erbjuder. 
+Flithelgen pågår under två helgdagar där tjejer som går tredje året på programmet introducerar de olika moment som ingår i teknikprogrammet. Momentens innehåll baseras utifrån två olika programinriktningar, design och data. Under helgen kommer man även få prova på moment som alla läser programmet oavsett inriktning. Deltagarna som kommer till flithelgen (tjejer och ickebinära som i nuläget går åk 8 eller 9) kommer att få testa på de olika momenten med tillsammans med arrangörerna. Inga förkunskaper krävs! Syftet med helgen är att sprida kunskap om hur kul teknik kan vara, detta då många väljer bort teknik på grund av okunskap om vad teknikprogrammet erbjuder.
 
 <style>
     .row {
@@ -21,9 +21,6 @@ Flithelgen är två dagar, lördag och söndag, där tjejer som går tredje åre
   padding: 5px;
 }
     </style>
-
-
-Under helgen kommer deltagarna att få testa CAD mm som visar upp design-sidan av teknik.
 
 
 <div class="row">
@@ -44,8 +41,6 @@ Flithelgen är två dagar, lördag och söndag, där tjejer i trean kommer att v
 Det bästa med teknik? Du behöver inga förkunskaper alls! 
 
 ### Hur anmäler man sig?
-
-Längre ner på hemsidan finns en rubrik som heter “Anmälan” där man anmäler sig. Det går också bra att anmäla sig via mail: flithelgen@gmail.com. 
 
 Du som tjej eller icke-binär och går årskurs 8 eller 9 har möjligheten att anmäla dig. 
 Mer information om hur du anmäler dig hittar du längre ner på sidan under rubriken 
