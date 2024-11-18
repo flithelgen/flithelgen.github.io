@@ -22,16 +22,16 @@ __SISTA ANMÄLNINGSDAG__
 Det finns 20 platser att fylla. I första hand prioriterar vi de som går i 9:an men efter det är det först till kvarn som gäller!
 <br>
 När anmälan stänger har man möjlighet att bli reserv, då får man information den 17 januari.
-<!--  
+ 
 {{< rawhtml >}}
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="form_iframe" id="form_iframe" style="display:none;" onload="
       if (submitted) {
             window.location='/tack-for-anmalan';
       }
-"></iframe> -->
+"></iframe> 
 
-<!--  
+
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSf7CnwNi71u01eGmxQ0xRD1BWbDd2MAwvOflVhCbIZRigejpw/formResponse" target="form_iframe" onsubmit="submitted=true">
 
   <label>För- och efternamn*</label> <br>
