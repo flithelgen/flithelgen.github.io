@@ -12,10 +12,6 @@ Flickor i teknik är ett gymnasiearbete vars syfte är att informera tjejer och 
 
 <br>
 
-
- ###### *[De olika flitgrupperna](services)*
----
-
 ### Historia
 
 *Hur kom flit till egentligen?*
