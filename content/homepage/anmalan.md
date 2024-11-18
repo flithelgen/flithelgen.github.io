@@ -32,7 +32,7 @@ När anmälan stänger har man möjlighet att bli reserv, då får man informati
       }
 "></iframe> 
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScRjkYOiCkSx46sDUkTzxsPMYa_P2C7tIe-3iSxA06vxawfBQ/viewform?usp=sf_link/formResponse" method="post" target="form_iframe" onsubmit="submitted=true">
+<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScRjkYOiCkSx46sDUkTzxsPMYa_P2C7tIe-3iSxA06vxawfBQ/formResponse" method="post" target="form_iframe" onsubmit="submitted=true">
 
   <label>För- och efternamn*</label> <br>
         <input type="text" placeholder="" class="form-input" name="entry.2068088539" required>
