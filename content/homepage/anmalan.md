@@ -19,7 +19,7 @@ Observera att fälten martkerade med * är obligatoriska. Det gäller även vid 
 __SISTA ANMÄLNINGSDAG__
 12 JANUARI 2025
 <br>
-Det finns 40 platser att fylla. I första hand prioriterar vi de som går i 9:an men efter det är det först till kvarn som gäller!
+Det finns 40 platser att fylla. I första hand prioriterar vi de som går i 9:an men efter det sker lottning till de övriga platserna!
 <br>
 När anmälan stänger har man möjlighet att bli reserv, då får man information den 15 januari.
  
@@ -83,7 +83,7 @@ När anmälan stänger har man möjlighet att bli reserv, då får man informati
 <style>
 .form-input {
       width: 75%;
-      padding: 17px 15px; /*line-height: 20px; */
+      padding: 17px 15px; 
 }
 .submit {
       width: 20%;
