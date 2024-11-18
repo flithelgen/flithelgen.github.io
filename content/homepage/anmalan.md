@@ -14,6 +14,8 @@ Observera att fälten markerade med * är obligatoriska. Det gäller även om du
 
 Om du är tjej eller ickebinär och går i årskurs 8 eller 9 är du välkommen att anmäla dig nedan. Annars går det bra att anmäla sig via mail: flithelgen@gmail.com
 
+<input type="text" placeholder="" class="form-input" name="entry.2068088539" required>
+
 Observera att fälten martkerade med * är obligatoriska. Det gäller även vid anmälning via mail.-->
 
 __SISTA ANMÄLNINGSDAG__
@@ -35,7 +37,7 @@ När anmälan stänger har man möjlighet att bli reserv, då får man informati
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScRjkYOiCkSx46sDUkTzxsPMYa_P2C7tIe-3iSxA06vxawfBQ/viewform?usp=sf_link/formResponse" method="post" target="form_iframe" onsubmit="submitted=true">
 
   <label>För- och efternamn*</label> <br>
-        <input type="text" placeholder="" class="form-input" name="entry.2068088539" required>
+        <input type="hidden" name="entry.2068088539" value="">
         <br>
         <br>
 
