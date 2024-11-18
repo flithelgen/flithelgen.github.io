@@ -21,7 +21,7 @@ Många känner nog till att på teknik ingår programmering, men visste du att m
 }
 
 .column {
-  flex: 50%; 
+  flex: 25%; 
   padding: 5px;
 }
 </style>
@@ -29,6 +29,9 @@ Många känner nog till att på teknik ingår programmering, men visste du att m
 <div class="row">
   <div class="column">
     <img src="images/Datorinriktning1.JPG" style="width:100%">
+  </div>
+    <div class="column">
+    <img src="images/Datorinriktning4.HEIC" style="width:100%">
   </div>
   <div class="column">
     <img src="images/Datorinriktning2.JPG" style="width:100%">
