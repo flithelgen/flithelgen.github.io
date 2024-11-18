@@ -31,10 +31,10 @@ Många känner nog till att på teknik ingår programmering, men visste du att m
     <img src="images/Datorinriktning1.JPG" style="width:100%">
   </div>
     <div class="column">
-    <img src="images/Datorinriktning4.JPG" style="width:100%">
+    <img src="images/Datorinriktning2.JPG" style="width:100%">
   </div>
   <div class="column">
-    <img src="images/Datorinriktning2.JPG" style="width:100%">
+    <img src="images/Datorinriktning4.JPG" style="width:100%">
   </div>
    <div class="column">
     <img src="images/Datorinriktning3.JPG" style="width:100%">
