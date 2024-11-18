@@ -49,7 +49,7 @@ Längre ner på hemsidan finns en rubrik som heter “Anmälan” där man anmä
 
 Du som tjej eller icke-binär och går årskurs 8 eller 9 har möjligheten att anmäla dig. 
 Mer information om hur du anmäler dig hittar du längre ner på sidan under rubriken 
-“Anmälan”. Det går även bra att anmäla sig via mail: flithelgen@gmail.com. 
+“Anmälan”. 
 
 
 ----
