@@ -32,7 +32,7 @@ När anmälan stänger har man möjlighet att bli reserv, då får man informati
 "></iframe> 
 
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSf7CnwNi71u01eGmxQ0xRD1BWbDd2MAwvOflVhCbIZRigejpw/formResponse" target="form_iframe" onsubmit="submitted=true">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScRjkYOiCkSx46sDUkTzxsPMYa_P2C7tIe-3iSxA06vxawfBQ/viewform?usp=sf_link/formResponse" target="form_iframe" onsubmit="submitted=true">
 
   <label>För- och efternamn*</label> <br>
         <input type="text" placeholder="" class="form-input" name="entry.754322292" required>
@@ -63,7 +63,7 @@ När anmälan stänger har man möjlighet att bli reserv, då får man informati
 
 <br>
 
-<label>Allergi?</label> <br>
+<label>Allergi?*</label> <br>
         <input type="text" placeholder="" class="form-input" name="entry.1057051356" >
         <br>
 <br>
