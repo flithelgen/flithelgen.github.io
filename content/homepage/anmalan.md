@@ -35,42 +35,42 @@ När anmälan stänger har man möjlighet att bli reserv, då får man informati
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScRjkYOiCkSx46sDUkTzxsPMYa_P2C7tIe-3iSxA06vxawfBQ/viewform?usp=sf_link/formResponse" target="form_iframe" onsubmit="submitted=true">
 
   <label>För- och efternamn*</label> <br>
-        <input type="text" placeholder="" class="form-input" name="entry.754322292" required>
+        <input type="text" placeholder="" class="form-input" name="entry.2068088539" required>
         <br>
         <br>
 
    <label>Telefonnummer*</label> <br>
-        <input type="tel" placeholder="" class="form-input" name="entry.1032050923" required></input>
+        <input type="tel" placeholder="" class="form-input" name="entry.1637602259" required></input>
         <br>
         
 <br>
 
   <label>Epost-adress*</label> <br>
-        <input type="email" placeholder="" class="form-input" name="entry.748088617" required>
+        <input type="email" placeholder="" class="form-input" name="entry.439233587" required>
         <br>
 
 <br>
 
  <label>Namn+telefonnummer till närmast anhörig*</label> <br>
-        <input type="text" placeholder="" class="form-input" name="entry.256356280" required>
+        <input type="text" placeholder="" class="form-input" name="entry.1268779889" required>
         <br>
 
 <br>
 
  <label>Vilken årskurs går du i?(8 eller 9)*</label> <br>
-        <input type="text" placeholder="" class="form-input" name="entry.1497228969" required>
+        <input type="text" placeholder="" class="form-input" name="entry.611587482" required>
         <br>
 
 <br>
 
-<label>Allergi?*</label> <br>
-        <input type="text" placeholder="" class="form-input" name="entry.1057051356" >
+<label>Allergi?</label> <br>
+        <input type="text" placeholder="" class="form-input" name="entry.1228917256" >
         <br>
 <br>
 
 
 <label>Övrigt</label> <br>
-        <textarea type="text" placeholder="" class="form-text" rows="9" name="entry.1660698277" ></textarea>
+        <textarea type="text" placeholder="" class="form-text" rows="9" name="entry.1929040108" ></textarea>
         <br>
         
 
