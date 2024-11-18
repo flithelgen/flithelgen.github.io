@@ -5,24 +5,20 @@ header_menu: true
 header_menu_title: "Anmälan"
 navigation_menu_title: "Anmälan"
 ---
+__SISTA ANMÄLNINGSDAG__
+<br>
+12 JANUARI 2025
 
-Du som är tjej eller icke-binär och går i årskurs 8 eller 9 är du välkommen att anmäla dig nedan. Annars går det bra att anmäla sig via mail: flithelgen@gmail.com
+Du som är tjej eller icke-binär och går i årskurs 8 eller 9 är du välkommen att anmäla dig i formuläret nedan. Det går även bra att anmäla sig via mail: flithelgen@gmail.com
 
 Observera att fälten markerade med * är obligatoriska. Det gäller även om du anmäler dig via mail.
 
-<!--#### <u>Anmälan är stängd!</u> 
+<!--#### <u>Anmälan är stängd!</u> -->
 
-Om du är tjej eller ickebinär och går i årskurs 8 eller 9 är du välkommen att anmäla dig nedan. Annars går det bra att anmäla sig via mail: flithelgen@gmail.com
-
-
-Observera att fälten martkerade med * är obligatoriska. Det gäller även vid anmälning via mail.-->
-
-__SISTA ANMÄLNINGSDAG__
-12 JANUARI 2025
 <br>
-Det finns 40 platser att fylla. I första hand prioriterar vi de som går i 9:an men efter det sker lottning till de övriga platserna!
+Det finns 40 platser att fylla. I första hand prioriterar vi de som går i 9:an, skulle det finnas platser kvar efter det sker lottning till de övriga platserna!
 <br>
-När anmälan stänger har man möjlighet att bli reserv, då får man information den 15 januari.
+När anmälan stängt har man även möjlighet att bli reserv, då får man information den 15 januari.
  
 {{< rawhtml >}}
 <script type="text/javascript">var submitted=false;</script>
