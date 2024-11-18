@@ -43,10 +43,6 @@ Flithelgen är två dagar, lördag och söndag, där tjejer i trean kommer att v
 
 Det bästa med teknik? Du behöver inga förkunskaper alls! 
 
-### Aktiviteter
-Under helgen kommer du som deltagare att få testa bland annat att arbeta med programmet CAD.  Vilket är ett program som används om du skulle välja att läsa designinriktningen på teknikprogrammet. Du som deltagare kommer även få möjligheten att testa på att programmera. Utöver det kommer du även få chansen att se de servrar och datorer som används vid den informationstekniska programinriktningen.
-
-
 ### Hur anmäler man sig?
 
 Längre ner på hemsidan finns en rubrik som heter “Anmälan” där man anmäler sig. Det går också bra att anmäla sig via mail: flithelgen@gmail.com. 
