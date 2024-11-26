@@ -9,9 +9,9 @@ Här är årets flitgäng från de två grupperna som håller i FLIT!
 
 ![](images/FLITganget2024.jpg)
 
-Vi som driver FLIT i år heter 
-Översta raden från vänster: Moa Thors, Emma Wahlberg, Tova Linder, Linnea Tångring, Ebba Vikström, Ebba Ervasti. 
-Nedersta raden från vänster: Sandra Björs, Agnes Parhammar, Nathalie Fordal , Sofie Sjödin, Tova Arnesen
+Vi som driver FLIT i år heter <br>
+**Översta raden från vänster:** Moa Thors, Emma Wahlberg, Tova Linder, Linnea Tångring, Ebba Vikström, Ebba Ervasti. <br>
+**Nedersta raden från vänster:** Sandra Björs, Agnes Parhammar, Nathalie Fordal , Sofie Sjödin, Tova Arnesen. <br>
 
 Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm!
 <!--Nedan finns text om dem som håller i flithelgen.
