@@ -5,15 +5,16 @@ header_menu_title: "Om oss"
 navigation_menu_title: "Om oss"
 header_menu: true
 ---
-Här är årets flitgäng från de två grupperna som håller i FLIT!
+Här är årets flitgäng från de två grupperna som håller i FLIT!  <br>
+De på den bakre raden tillhör FLIT-helggruppen och kommer hålla i FLIT-helgen i januari. De på den främre raden tillhör föreläsningsgruppen som åker runt och föreläser på olika skolor runtom i Sundsvall. 
 
 ![](images/FLITganget2024.jpg)
 
-Vi som driver FLIT i år heter <br>
-**Översta raden från vänster:** Moa Thors, Emma Wahlberg, Tova Linder, Linnea Tångring, Ebba Vikström, Ebba Ervasti. <br>
-**Nedersta raden från vänster:** Sandra Björs, Agnes Parhammar, Nathalie Fordal, Sofie Sjödin, Tova Arnesen. <br>
+ <br>
+**Bakre raden från vänster:** Moa Thors, Emma Wahlberg, Tova Linder, Linnea Tångring, Ebba Vikström, Ebba Ervasti. <br>
+**Främre raden från vänster:** Sandra Björs, Agnes Parhammar, Nathalie Fordal, Sofie Sjödin, Tova Arnesen. <br>
 
-Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm!
+Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm! 
 <!--Nedan finns text om dem som håller i flithelgen.
 <br>
 
