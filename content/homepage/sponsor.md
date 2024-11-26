@@ -1,5 +1,5 @@
 ---
-title: "Stort tack sponsorer!"
+title: "Stort tack till våra sponsorer!"
 weight: 99
 header_menu: true
 header_menu_title: "Sponsorer"
