@@ -8,7 +8,7 @@ header_menu: true
 
 Vi som driver FLIT i år heter ---. Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm. 
 
-![](images/FLITganget2024.JPG)
+![](images/FLITganget2024.jpg)
 Här är en del av årets flitgäng från de två grupperna som håller i FLIT. 
 Nedan finns text om dem som håller i flithelgen.
 <br>
