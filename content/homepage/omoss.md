@@ -5,12 +5,16 @@ header_menu_title: "Om oss"
 navigation_menu_title: "Om oss"
 header_menu: true
 ---
-
-Vi som driver FLIT i år heter ---. Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm. 
+Här är årets flitgäng från de två grupperna som håller i FLIT!
 
 ![](images/FLITganget2024.jpg)
-Här är en del av årets flitgäng från de två grupperna som håller i FLIT. 
-Nedan finns text om dem som håller i flithelgen.
+
+Vi som driver FLIT i år heter 
+Översta raden från vänster: Moa Thors, Emma Wahlberg, Tova Linder, Linnea Tångring, Ebba Vikström, Ebba Ervasti. 
+Nedersta raden från vänster: Sandra Björs, Agnes Parhammar, Nathalie Fordal , Sofie Sjödin, Tova Arnesen
+
+Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm!
+<!--Nedan finns text om dem som håller i flithelgen.
 <br>
 
 Vi som håller i flithelgen i år heter ---- Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm. 
@@ -24,8 +28,8 @@ Vi som håller i flithelgen i år heter ---- Våra resor genom gymnasiet skiljer
 
 -- läste design i tvåan och nu i trean läser hon samhällsbyggande, vilket är en fortsatt inriktning på design. Efter studenten planerar hon att söka jobb.
 
--- valde informations-och medieteknik samt produktions teknik år 2. Numera år 3 pluggar hon teknikvetenskap med planer på att eventuellt studera ett fjärde år på skolan.
+-- valde informations-och medieteknik samt produktions teknik år 2. Numera år 3 pluggar hon teknikvetenskap med planer på att eventuellt studera ett fjärde år på skolan. -->
 
-<!-- The belly rules the mind. --- spanish proverb-->
+
 
 Hoppas vi ses på flithelgen!
