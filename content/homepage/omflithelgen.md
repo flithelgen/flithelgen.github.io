@@ -25,10 +25,10 @@ Flithelgen pågår under två helgdagar där tjejer som går tredje året på pr
 
 <div class="row">
   <div class="column">
-    <img src="images/rita.jpg" alt="girl" style="width:100%">
+    <img src="images/Omteknik1.jpeg" alt="bild" style="width:100%">
   </div>
   <div class="column">
-    <img src="images/robot2.PNG" alt="arm" style="width:100%">
+    <img src="images/Omteknik2.jpeg" alt="bild" style="width:100%">
   </div>
   </div>
   
