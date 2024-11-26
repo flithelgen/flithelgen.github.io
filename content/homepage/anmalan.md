@@ -64,6 +64,10 @@ När anmälan stängt har man även möjlighet att bli reserv, då får man info
         <br>
 <br>
 
+<label>Söker du tillsammans med någon? Isåfall vem? </label> <br>
+        <input type="text" placeholder="" class="form-input" name="entry.1115300435" >
+        <br>
+<br>
 
 <label>Övrigt</label> <br>
         <textarea type="text" placeholder="" class="form-text" rows="9" name="entry.1929040108" ></textarea>
