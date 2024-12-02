@@ -11,8 +11,8 @@ De på den bakre raden tillhör FLIT-helggruppen och kommer hålla i FLIT-helgen
 ![](images/FLITganget2024.jpg)
 
  <br>
-**Bakre raden från vänster:** Moa Thors, Emma Wahlberg, Tova Linder, Linnea Tångring, Ebba Vikström, Ebba Ervasti. <br>
-**Främre raden från vänster:** Sandra Björs, Agnes Parhammar, Nathalie Fordal, Sofie Sjödin, Tova Arnesen. <br>
+__Bakre raden från vänster:__ Moa Thors, Emma Wahlberg, Tova Linder, Linnea Tångring, Ebba Vikström, Ebba Ervasti. <br>
+__Främre raden från vänster:__ Sandra Björs, Agnes Parhammar, Nathalie Fordal, Sofie Sjödin, Tova Arnesen. <br>
 
 Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi alla studerar tredje året av tekniklinjen på västermalm! 
 <!--Nedan finns text om dem som håller i flithelgen.
