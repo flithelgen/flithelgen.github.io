@@ -1,15 +1,272 @@
 <!doctype html>
-<html lang="en">
+<html lang="sv">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/png" href="./flit-logo.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Flit Helgen</title>
-    <!-- Sökvägarna är nu korrigerade till att peka direkt på filerna i roten -->
-    <script type="module" crossorigin src="./index-BUKBoG8f.js"></script>
-    <link rel="stylesheet" crossorigin href="./index-9LI_-c07.css">
+    <meta name="description" content="Flickor i Teknik – en inspirerande teknikhelg för tjejer och icke-binära i årskurs 8 och 9 på Västermalms skola i Sundsvall." />
+    <link rel="icon" type="image/png" href="./flit-logo.png" />
+    <link rel="stylesheet" href="./style.css" />
+    <script src="./script.js" defer></script>
   </head>
   <body>
-    <div id="root"></div>
+    <nav class="site-nav" aria-label="Huvudmeny">
+      <div class="container">
+        <div class="site-nav__top">
+          <img src="./flit-logo.png" alt="FLIT – Flickor i Teknik" class="site-nav__logo" />
+          <div class="site-nav__social">
+            <a href="https://www.instagram.com/flickoriteknik" target="_blank" rel="noopener noreferrer" class="icon-link" aria-label="Instagram">
+              <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect width="20" height="20" x="2" y="2" rx="5" ry="5" /><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" /><line x1="17.5" x2="17.51" y1="6.5" y2="6.5" /></svg>
+            </a>
+            <a href="https://www.tiktok.com/@flickor.i.teknik" target="_blank" rel="noopener noreferrer" class="icon-link" aria-label="TikTok">
+              <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V5l12-2v13" /><circle cx="6" cy="18" r="3" /><circle cx="18" cy="16" r="3" /></svg>
+            </a>
+          </div>
+        </div>
+        <ul class="site-nav__links">
+          <li><a href="#hem" aria-current="true">Hem</a></li>
+          <li><a href="#om-flit">Om FLIT</a></li>
+          <li><a href="#teknik">Teknik</a></li>
+          <li><a href="#detaljer">Detaljer</a></li>
+          <li><a href="#anmalan">Anmälan</a></li>
+          <li><a href="#om-oss">Om oss</a></li>
+          <li><a href="#kontakt">Kontakta oss</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <main>
+      <!-- ============ HEM ============ -->
+      <section id="hem" class="container hero">
+        <div class="slide-in">
+          <p class="hero__badge">
+            <svg class="icon icon--small" viewBox="0 0 24 24" aria-hidden="true"><path d="M9.937 15.5A2 2 0 0 0 8.5 14.063l-6.135-1.582a.5.5 0 0 1 0-.962L8.5 9.936A2 2 0 0 0 9.937 8.5l1.582-6.135a.5.5 0 0 1 .963 0L14.063 8.5A2 2 0 0 0 15.5 9.937l6.135 1.581a.5.5 0 0 1 0 .964L15.5 14.063a2 2 0 0 0-1.437 1.437l-1.582 6.135a.5.5 0 0 1-.963 0z" /><path d="M20 3v4" /><path d="M22 5h-4" /><path d="M4 17v2" /><path d="M5 18H3" /></svg>
+            En inspirerande helg för tjejer
+          </p>
+          <h1 class="hero__title">Flickor i Teknik</h1>
+          <p class="hero__lead">Utforska teknik, möt inspirerande tjejer och ta del av en oförglömlig helg</p>
+          <div class="button-row button-row--center">
+            <a href="#anmalan" class="button button--primary">
+              Anmäl dig nu
+              <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14" /><path d="m12 5 7 7-7 7" /></svg>
+            </a>
+            <a href="#om-flit" class="button button--outline">Läs mer</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ OM FLIT ============ -->
+      <section id="om-flit" class="container section">
+        <h2 class="section__title">Vad är Flickor i Teknik?</h2>
+        <div class="grid grid--2 grid--center">
+          <div class="stack">
+            <p class="text-lg">
+              Flickor i teknik är ett gymnasiearbete vars syfte är att informera tjejer och icke-binära
+              <!-- Uppdatera födelseåren varje år -->
+              född 2011 och 2012 om teknikprogrammet och vad det har att erbjuder.
+            </p>
+            <p class="text-lg">
+              Arbetet drivs av en ny grupp tjejer varje år. I år finns det tre olika grupper från årskurs tre med
+              erfarenhet från olika inriktningar.
+            </p>
+            <div class="callout">
+              <p class="callout__text">Det bästa med teknik? Du behöver inga förkunskaper alls!</p>
+            </div>
+          </div>
+          <div class="card">
+            <h3 class="card__title">Vad gör vi?</h3>
+            <ul class="arrow-list">
+              <li><span><strong>Föreläser</strong> på skolor</span></li>
+              <li><span><strong>Arrangerar</strong> aktiviteter för teknikstudenter</span></li>
+              <li><span><strong>Håller</strong> en inspirerande teknik-helg</span></li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ HISTORIA ============ -->
+      <section class="container section">
+        <h2 class="section__title">Historien bakom FLIT</h2>
+        <div class="grid grid--3">
+          <div class="card card--lift">
+            <p class="card__year">2015</p>
+            <h3 class="card__subtitle">Början</h3>
+            <p>Anne-Mi Liljestrand och Carina Turton startar FLIT som en sommarkurs för tjejer i årskurs 8.</p>
+          </div>
+          <div class="card card--lift">
+            <p class="card__year">2016</p>
+            <h3 class="card__subtitle">Utveckling</h3>
+            <p>Inspirerad av Bromangymnasiet blir FLIT ett gymnasiearbete som arrangeras under en helg.</p>
+          </div>
+          <div class="card card--lift">
+            <p class="card__year">Idag</p>
+            <h3 class="card__subtitle">Framtid</h3>
+            <p>FLIT inspirerar hundratals tjejer varje år att utforska teknik och sina möjligheter.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ TEKNIK ============ -->
+      <section id="teknik" class="container section">
+        <h2 class="section__title">Teknikprogrammet på Västermalm</h2>
+        <div class="grid grid--2 grid--spaced">
+          <div class="card card--gradient">
+            <h3 class="card__title card__title--accent">Informations- och Medieteknik</h3>
+            <p class="card__text">Programmering, datorers uppbyggnad, nätverk och digitalteknik. Lär dig allt från kod till hårdvara!</p>
+            <ul class="check-list">
+              <li>Programmering</li>
+              <li>Nätverk &amp; säkerhet</li>
+              <li>Digitalteknik</li>
+            </ul>
+          </div>
+          <div class="card card--gradient">
+            <h3 class="card__title card__title--accent">Design</h3>
+            <p class="card__text">Designa produkter, skapa 3D-modeller, och lär dig professionell bildbehandling!</p>
+            <ul class="check-list">
+              <li>3D-modellering</li>
+              <li>Bildbehandling</li>
+              <li>Produktdesign</li>
+            </ul>
+          </div>
+        </div>
+        <div class="card">
+          <h3 class="card__title card__title--accent">Om FLIT-helgen</h3>
+          <p class="card__text">
+            Under två dagar får du testa på verkliga teknik-aktiviteter tillsammans med tjejer från tredje året. Du får
+            programmera, designa, bygga 3D-modeller och mycket mer!
+          </p>
+          <p class="text-accent text-semibold">Inga förkunskaper krävs - bara nyfikenhet och viljan att utforska!</p>
+        </div>
+      </section>
+
+      <!-- ============ DETALJER ============ -->
+      <section id="detaljer" class="container section">
+        <h2 class="section__title">Praktisk Information</h2>
+        <div class="grid grid--3 grid--spaced">
+          <div class="info-card">
+            <p class="info-card__emoji" aria-hidden="true">📅</p>
+            <h3 class="info-card__title">När?</h3>
+            <!-- Uppdatera datum varje år -->
+            <p class="info-card__value">30-31 januari 2027</p>
+            <p class="info-card__note">Starttid skickas två veckor innan.</p>
+          </div>
+          <div class="info-card">
+            <p class="info-card__emoji" aria-hidden="true">🎯</p>
+            <h3 class="info-card__title">Vad?</h3>
+            <p class="info-card__value">Teknik-aktiviteter</p>
+            <p class="info-card__note">Mat, fika och massor av roligt!</p>
+          </div>
+          <div class="info-card">
+            <p class="info-card__emoji" aria-hidden="true">📍</p>
+            <h3 class="info-card__title">Vart?</h3>
+            <p class="info-card__value">Västermalms skola</p>
+            <p class="info-card__note">Universitetsallén 17, Sundsvall</p>
+          </div>
+        </div>
+        <div class="notice">
+          <p>
+            <strong class="text-accent">Vem kan anmäla sig?</strong><br />
+            Du som är tjej eller icke-binär och går i årskurs 8 eller 9. Det finns 40 platser - vi prioriterar 9:or,
+            sedan lottning för 8:or!
+          </p>
+        </div>
+      </section>
+
+      <!-- ============ ANMÄLAN ============ -->
+      <section id="anmalan" class="container section">
+        <h2 class="section__title">Anmälan</h2>
+        <div class="card">
+          <div class="deadline">
+            <p class="deadline__label">⏰ SISTA ANMÄLNINGSDAG</p>
+            <!-- Uppdatera sista anmälningsdag varje år -->
+            <p class="deadline__date">12 januari 2027</p>
+          </div>
+          <p class="text-lg spaced">
+            Anmäl dig via Google Forms eller skicka mail till
+            <span class="text-accent text-semibold">flithelgen@gmail.com</span>
+          </p>
+          <div class="button-row spaced">
+            <a href="https://forms.gle/ma3wmziUuuVVkWsK6" target="_blank" rel="noopener noreferrer" class="button button--primary button--grow">Anmäl dig via Google Forms</a>
+            <a href="mailto:flithelgen@gmail.com" class="button button--outline button--grow">
+              <svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><rect width="20" height="16" x="2" y="4" rx="2" /><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" /></svg>
+              Skicka mail
+            </a>
+          </div>
+          <p class="card__text">Observera att fälten markerade med * är obligatoriska.</p>
+          <!-- Uppdatera datum för reservbesked varje år -->
+          <p class="small-note">Efter anmälningsdeadline kan du bli reserv - du får information den 15 januari.</p>
+        </div>
+      </section>
+
+      <!-- ============ OM OSS ============ -->
+      <section id="om-oss" class="container section">
+        <h2 class="section__title">Om oss</h2>
+        <div class="card card--flush">
+          <div class="grid grid--2 about">
+            <div>
+              <h3 class="card__title card__title--spaced">Årets FLIT-tjejer</h3>
+              <div class="stack">
+                <!-- Uppdatera namnen varje år -->
+                <p class="text-lg">
+                  Vi är
+                  <strong class="text-accent">Laura Connell</strong>,
+                  <strong class="text-accent">Antonina Bukhonina</strong>,
+                  <strong class="text-accent">Josefine Grönlund</strong>,
+                  <strong class="text-accent">Henny Widén Hjort</strong>,
+                  <strong class="text-accent">Wendela Dusthall</strong>,
+                  <strong class="text-accent">Ylva Öhlén</strong>,
+                  <strong class="text-accent">Havanna Kastebo</strong>,
+                  <strong class="text-accent">Diana Kryshchuk</strong> och
+                  <strong class="text-accent">Polly Wahlbeck</strong>
+                  - årets FLIT-tjejer som ska hålla i FLIT-helgen i januari.
+                </p>
+                <p class="text-lg">Vi åker också runt och besöker olika grundskolor i Sundsvall för att inspirera ännu fler tjejer.</p>
+                <div class="callout callout--thin">
+                  <p class="callout__body">
+                    Våra resor genom gymnasiet skiljer sig från varandra, men det vi har gemensamt är att vi
+                    <strong class="text-accent">alla studerar tredje året av tekniklinjen på Västermalm</strong>!
+                  </p>
+                  <p class="callout__text">Hoppas vi ses på FLIT-helgen! 💖</p>
+                </div>
+              </div>
+            </div>
+            <div class="about__photo">
+              <img src="./team-photo.jpg" alt="Årets FLIT-tjejer" />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ============ KONTAKT ============ -->
+      <section id="kontakt" class="container section">
+        <h2 class="section__title">Kontakta oss</h2>
+        <div class="grid grid--3">
+          <div class="card card--lift contact-card">
+            <svg class="icon icon--large" viewBox="0 0 24 24" aria-hidden="true"><rect width="20" height="16" x="2" y="4" rx="2" /><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7" /></svg>
+            <h3 class="card__subtitle">Email</h3>
+            <a href="mailto:flithelgen@gmail.com" class="contact-card__link">flithelgen@gmail.com</a>
+          </div>
+          <div class="card card--lift contact-card">
+            <svg class="icon icon--large" viewBox="0 0 24 24" aria-hidden="true"><rect width="20" height="20" x="2" y="2" rx="5" ry="5" /><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z" /><line x1="17.5" x2="17.51" y1="6.5" y2="6.5" /></svg>
+            <h3 class="card__subtitle">Instagram</h3>
+            <a href="https://www.instagram.com/flickoriteknik" target="_blank" rel="noopener noreferrer" class="contact-card__link">@flickoriteknik</a>
+          </div>
+          <div class="card card--lift contact-card">
+            <svg class="icon icon--large" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V5l12-2v13" /><circle cx="6" cy="18" r="3" /><circle cx="18" cy="16" r="3" /></svg>
+            <h3 class="card__subtitle">TikTok</h3>
+            <a href="https://www.tiktok.com/@flickor.i.teknik" target="_blank" rel="noopener noreferrer" class="contact-card__link">@flickor.i.teknik</a>
+          </div>
+        </div>
+        <div class="contact-banner">
+          <p>Hör gärna av er vid funderingar! Vi svarar så snart vi kan. 💬</p>
+        </div>
+      </section>
+
+      <footer class="container site-footer">
+        <p class="site-footer__thanks">Stort tack till våra sponsorer!</p>
+        <p class="site-footer__name">Flickor i Teknik</p>
+        <p class="site-footer__copy">© 2026 FLIT - Flickor i Teknik</p>
+      </footer>
+    </main>
   </body>
 </html>
