@@ -1,0 +1,682 @@
+/* ==========================================================================
+   Flickor i Teknik – stilmall
+   ========================================================================== */
+
+:root {
+  --accent: #001f3f;
+  --foreground: oklch(23.5% 0.015 65);
+  --white: #fff;
+
+  --blue-50: oklch(97% 0.014 254.604);
+  --blue-100: oklch(93.2% 0.032 255.585);
+  --blue-200: oklch(88.2% 0.059 254.128);
+  --blue-700: oklch(48.8% 0.243 264.376);
+  --blue-900: oklch(37.9% 0.146 265.522);
+  --pink-100: oklch(94.8% 0.028 342.258);
+  --pink-600: oklch(59.2% 0.249 0.584);
+  --gray-600: oklch(44.6% 0.03 256.802);
+  --gray-700: oklch(37.3% 0.034 259.733);
+  --gray-800: oklch(27.8% 0.033 256.848);
+
+  --radius: 0.65rem;
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-md: calc(var(--radius) - 2px);
+
+  --shadow-md: 0 4px 6px -1px #0000001a, 0 2px 4px -2px #0000001a;
+  --shadow-lg: 0 10px 15px -3px #0000001a, 0 4px 6px -4px #0000001a;
+  --shadow-xl: 0 20px 25px -5px #0000001a, 0 8px 10px -6px #0000001a;
+
+  --transition: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* ---------- Grund ---------- */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  /* Så att den fasta menyn inte döljer rubriken när man hoppar till en sektion.
+     --nav-height sätts av script.js; 8.5rem är menyns höjd på en bred skärm. */
+  scroll-padding-top: var(--nav-height, 8.5rem);
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  color: var(--foreground);
+  background: var(--white);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+h1,
+h2,
+h3 {
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+:focus-visible {
+  outline: 3px solid var(--blue-700);
+  outline-offset: 2px;
+}
+
+.container {
+  width: 100%;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+@media (min-width: 1024px) {
+  .container {
+    max-width: 1280px;
+  }
+}
+
+/* ---------- Ikoner (Lucide) ---------- */
+
+.icon {
+  width: 1.25rem;
+  height: 1.25rem;
+  flex-shrink: 0;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.icon--small {
+  width: 1rem;
+  height: 1rem;
+}
+
+.icon--large {
+  width: 4rem;
+  height: 4rem;
+  margin: 0 auto 1rem;
+  color: var(--accent);
+}
+
+/* ---------- Animationer ---------- */
+
+.slide-in {
+  animation: slide-in 0.6s ease-out;
+}
+
+@keyframes slide-in {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+/* ---------- Navigering ---------- */
+
+.site-nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: rgb(255 255 255 / 0.95);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--blue-100);
+  box-shadow: var(--shadow-lg);
+}
+
+.site-nav > .container {
+  padding-block: 1rem;
+}
+
+.site-nav__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.site-nav__logo {
+  height: 3rem;
+  width: auto;
+}
+
+.site-nav__social {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.icon-link {
+  padding: 0.5rem;
+  border-radius: var(--radius);
+  color: var(--accent);
+  transition: var(--transition);
+}
+
+.icon-link:hover {
+  background: var(--blue-100);
+  transform: scale(1.1);
+}
+
+.site-nav__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.875rem;
+}
+
+.site-nav__links a {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius);
+  font-weight: 500;
+  white-space: nowrap;
+  transition: var(--transition);
+}
+
+.site-nav__links a:hover {
+  background: var(--blue-100);
+  box-shadow: var(--shadow-md);
+}
+
+.site-nav__links a[aria-current] {
+  background: var(--accent);
+  color: var(--white);
+  box-shadow: var(--shadow-lg);
+}
+
+@media (min-width: 768px) {
+  .site-nav__links {
+    gap: 0.75rem;
+  }
+}
+
+/* ---------- Gemensamt ---------- */
+
+.section {
+  padding-block: 4rem;
+}
+
+.section__title {
+  margin-bottom: 3rem;
+  font-size: 2.25rem;
+  line-height: 1.1;
+  font-weight: 900;
+  text-align: center;
+  color: var(--accent);
+}
+
+@media (min-width: 768px) {
+  .section__title {
+    font-size: 3rem;
+  }
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.625;
+  color: var(--gray-700);
+}
+
+.text-accent {
+  color: var(--accent);
+}
+
+.text-semibold {
+  font-weight: 600;
+}
+
+strong.text-accent {
+  font-weight: 700;
+}
+
+.spaced {
+  margin-bottom: 2rem;
+}
+
+.stack > * + * {
+  margin-top: 1.5rem;
+}
+
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.grid--2 {
+  gap: 2rem;
+}
+
+.grid--center {
+  align-items: center;
+}
+
+.grid--spaced {
+  margin-bottom: 2rem;
+}
+
+@media (min-width: 768px) {
+  .grid--2 {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .grid--3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* ---------- Knappar ---------- */
+
+.button-row {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.button-row--center {
+  justify-content: center;
+}
+
+@media (min-width: 640px) {
+  .button-row {
+    flex-direction: row;
+  }
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  height: 2.5rem;
+  padding-inline: 1.5rem;
+  border-radius: var(--radius-md);
+  font-size: 0.875rem;
+  font-weight: 500;
+  white-space: nowrap;
+  transition: var(--transition);
+}
+
+.button--primary {
+  background: var(--accent);
+  color: var(--white);
+  box-shadow: var(--shadow-lg);
+}
+
+.button--primary:hover {
+  background: var(--blue-900);
+  box-shadow: var(--shadow-xl);
+  transform: scale(1.05);
+}
+
+.button--outline {
+  border: 2px solid var(--accent);
+  color: var(--accent);
+}
+
+.button--outline:hover {
+  background: var(--blue-50);
+}
+
+.button--grow {
+  flex: 1;
+}
+
+/* ---------- Hem ---------- */
+
+.hero {
+  padding-block: 5rem;
+  text-align: center;
+}
+
+.hero__badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  background: var(--blue-100);
+  color: var(--accent);
+  font-size: 0.875rem;
+  font-weight: 600;
+}
+
+.hero__title {
+  margin-bottom: 1rem;
+  font-size: 3.75rem;
+  line-height: 1.25;
+  font-weight: 900;
+  color: var(--accent);
+}
+
+.hero__lead {
+  max-width: 42rem;
+  margin: 0 auto 2.5rem;
+  font-size: 1.25rem;
+  color: var(--gray-600);
+}
+
+@media (min-width: 768px) {
+  .hero {
+    padding-block: 8rem;
+  }
+
+  .hero__title {
+    font-size: 4.5rem;
+  }
+
+  .hero__lead {
+    font-size: 1.5rem;
+  }
+}
+
+/* ---------- Kort ---------- */
+
+.card {
+  padding: 2rem;
+  border: 2px solid var(--blue-100);
+  border-radius: var(--radius-xl);
+  background: rgb(255 255 255 / 0.8);
+  backdrop-filter: blur(8px);
+  box-shadow: var(--shadow-lg);
+  color: var(--gray-700);
+}
+
+.card--lift,
+.card--gradient {
+  transition: var(--transition);
+}
+
+.card--lift:hover {
+  box-shadow: var(--shadow-xl);
+  transform: translateY(-0.5rem);
+}
+
+.card--gradient {
+  background: linear-gradient(to bottom right, var(--blue-50), var(--white));
+  backdrop-filter: none;
+}
+
+.card--gradient:hover {
+  box-shadow: var(--shadow-xl);
+}
+
+.card--flush {
+  padding: 0;
+  overflow: hidden;
+}
+
+.card__title {
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--gray-800);
+}
+
+.card__title--accent {
+  color: var(--accent);
+}
+
+.card__title--spaced {
+  margin-bottom: 1.5rem;
+}
+
+.card__subtitle {
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--gray-800);
+}
+
+.card__year {
+  margin-bottom: 1rem;
+  font-size: 2.25rem;
+  font-weight: 900;
+  color: var(--accent);
+}
+
+.card__text {
+  margin-bottom: 1rem;
+}
+
+.arrow-list > li,
+.check-list > li {
+  display: flex;
+}
+
+.arrow-list > li + li {
+  margin-top: 1rem;
+}
+
+.arrow-list > li::before {
+  content: "→";
+  margin-right: 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1.4;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.check-list > li + li {
+  margin-top: 0.5rem;
+}
+
+.check-list > li::before {
+  content: "✓";
+  margin-right: 0.5rem;
+  color: var(--accent);
+}
+
+.callout {
+  padding: 1.5rem;
+  border: 2px solid var(--accent);
+  border-radius: var(--radius-xl);
+  background: linear-gradient(to bottom right, var(--blue-50), var(--blue-100));
+}
+
+.callout--thin {
+  border-width: 1px;
+  border-radius: var(--radius);
+}
+
+.callout__text {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.callout__body {
+  margin-bottom: 0.5rem;
+  color: var(--gray-700);
+}
+
+/* ---------- Praktisk information ---------- */
+
+.info-card {
+  padding: 2rem;
+  border-radius: var(--radius-xl);
+  background: linear-gradient(to bottom right, var(--accent), var(--pink-600));
+  color: var(--white);
+  box-shadow: var(--shadow-lg);
+  transition: var(--transition);
+}
+
+.info-card:hover {
+  box-shadow: var(--shadow-xl);
+  transform: scale(1.05);
+}
+
+.info-card__emoji {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.info-card__title {
+  margin-bottom: 0.75rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.info-card__value {
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.info-card__note {
+  font-size: 0.875rem;
+  color: var(--pink-100);
+}
+
+.notice {
+  padding: 2rem;
+  border: 2px solid var(--accent);
+  border-radius: var(--radius-xl);
+  background: var(--blue-50);
+  box-shadow: var(--shadow-lg);
+  font-size: 1.125rem;
+  color: var(--gray-800);
+}
+
+/* ---------- Anmälan ---------- */
+
+.deadline {
+  margin-bottom: 2rem;
+  padding: 2rem;
+  border-radius: var(--radius-xl);
+  background: linear-gradient(to right, var(--accent), var(--blue-700));
+  color: var(--white);
+  text-align: center;
+  box-shadow: var(--shadow-lg);
+}
+
+.deadline__label {
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.deadline__date {
+  font-size: 2.25rem;
+  font-weight: 900;
+}
+
+.small-note {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: var(--radius);
+  background: var(--blue-50);
+  font-size: 0.875rem;
+}
+
+/* ---------- Om oss ---------- */
+
+.about {
+  padding: 2rem;
+}
+
+.about__photo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about__photo img {
+  width: 100%;
+  object-fit: cover;
+  border: 4px solid var(--accent);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-xl);
+}
+
+/* ---------- Kontakt ---------- */
+
+.contact-card {
+  text-align: center;
+}
+
+.contact-card .card__subtitle {
+  margin-bottom: 0.5rem;
+}
+
+.contact-card__link {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.contact-card__link:hover {
+  text-decoration: underline;
+}
+
+.contact-banner {
+  margin-top: 2rem;
+  padding: 2rem;
+  border: 2px solid var(--blue-200);
+  border-radius: var(--radius-xl);
+  background: linear-gradient(to right, var(--blue-50), var(--blue-100));
+  text-align: center;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--gray-700);
+}
+
+/* ---------- Sidfot ---------- */
+
+.site-footer {
+  margin-top: 4rem;
+  padding-block: 3rem;
+  border-top: 2px solid var(--blue-100);
+  text-align: center;
+  color: var(--gray-600);
+}
+
+.site-footer__thanks {
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+.site-footer__name {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.site-footer__copy {
+  margin-top: 1rem;
+  font-size: 0.875rem;
+}
