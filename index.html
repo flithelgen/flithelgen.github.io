@@ -8,6 +8,7 @@
     <link rel="icon" type="image/png" href="./flit-logo.png" />
     <link rel="stylesheet" href="./style.css" />
     <script src="./script.js" defer></script>
+    <script src="./slider.js" defer></script>
   </head>
   <body>
     <nav class="site-nav" aria-label="Huvudmeny">
@@ -81,6 +82,33 @@
               <li><span><strong>Håller</strong> en inspirerande teknik-helg</span></li>
             </ul>
           </div>
+        </div>
+
+        <!-- Karusell: byt bilderna (src) och bildtexterna. Lägg till/ta bort .carousel__item efter behov. -->
+        <div class="carousel" data-carousel tabindex="0" role="region" aria-label="Bilder från FLIT">
+          <div class="carousel__wrap">
+            <div class="carousel__item">
+              <figure><img src="./Tjej_och_dator.jpg" alt="" draggable="false" /></figure>
+          
+            </div>
+            <div class="carousel__item">
+              <figure><img src="./hus-i-kartong.png" alt="" draggable="false" /></figure>
+              
+            </div>
+            <div class="carousel__item">
+              <figure><img src="./CAD.jpg" alt="" draggable="false" /></figure>
+              
+            </div>
+            <div class="carousel__item">
+              <figure><img src="./tjej.skiss.jpg" alt="" draggable="false" /></figure>
+              
+            </div>
+            <div class="carousel__item">
+              <figure><img src="./tjej_jobbar.jpeg" alt="" draggable="false" /></figure>
+             
+            </div>
+          </div>
+          <div class="carousel__progress" aria-hidden="true"><div class="carousel__progress-bar"></div></div>
         </div>
       </section>
 
@@ -179,7 +207,7 @@
           <div class="deadline">
             <p class="deadline__label">⏰ SISTA ANMÄLNINGSDAG</p>
             <!-- Uppdatera sista anmälningsdag varje år -->
-            <p class="deadline__date">12 januari 2027</p>
+            <p class="deadline__date">21 januari 2027</p>
           </div>
           <p class="text-lg spaced">
             Anmäl dig via Google Forms eller skicka mail till
@@ -209,15 +237,15 @@
                 <!-- Uppdatera namnen varje år -->
                 <p class="text-lg">
                   Vi är
-                  <strong class="text-accent">Laura Connell</strong>,
-                  <strong class="text-accent">Antonina Bukhonina</strong>,
-                  <strong class="text-accent">Josefine Grönlund</strong>,
-                  <strong class="text-accent">Henny Widén Hjort</strong>,
-                  <strong class="text-accent">Wendela Dusthall</strong>,
-                  <strong class="text-accent">Ylva Öhlén</strong>,
                   <strong class="text-accent">Havanna Kastebo</strong>,
-                  <strong class="text-accent">Diana Kryshchuk</strong> och
-                  <strong class="text-accent">Polly Wahlbeck</strong>
+                  <strong class="text-accent">Polly Wahlbeck</strong>,
+                  <strong class="text-accent">Ylva Öhlén</strong>,
+                  <strong class="text-accent">Josefine Grönlund</strong>,
+                  <strong class="text-accent">Wendela Dusthall</strong>,
+                  <strong class="text-accent">Antonina Bukhonina</strong>,
+                  <strong class="text-accent">Diana Kryshchuk</strong>,
+                  <strong class="text-accent">Henny Widén Hjort</strong> och
+                  <strong class="text-accent">Laura Connell</strong>
                   - årets FLIT-tjejer som ska hålla i FLIT-helgen i januari.
                 </p>
                 <p class="text-lg">Vi åker också runt och besöker olika grundskolor i Sundsvall för att inspirera ännu fler tjejer.</p>

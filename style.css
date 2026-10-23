@@ -680,3 +680,78 @@ strong.text-accent {
   margin-top: 1rem;
   font-size: 0.875rem;
 }
+
+/* ==========================================================================
+   Karusell (drag-och-scroll)
+   ========================================================================== */
+
+.carousel {
+  position: relative;
+  margin-top: 3rem;
+  overflow: hidden;
+  cursor: grab;
+  /* Låt webbläsaren sköta lodrät scroll på mobil, vi tar bara sidleds-drag */
+  touch-action: pan-y;
+  border-radius: var(--radius-xl);
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.carousel:focus-visible {
+  outline: 3px solid var(--blue-700);
+  outline-offset: 4px;
+}
+
+.carousel.is-dragging {
+  cursor: grabbing;
+}
+
+.carousel__wrap {
+  display: flex;
+  width: max-content;
+  will-change: transform;
+}
+
+.carousel__item {
+  flex: none;
+  width: clamp(16rem, 30vw, 24rem);
+  padding: 0 0.75rem;
+}
+
+.carousel__item figure {
+  position: relative;
+  aspect-ratio: 16 / 10;
+  overflow: hidden;
+  border-radius: var(--radius-xl);
+  box-shadow: var(--shadow-lg);
+}
+
+.carousel__item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+  transform-origin: center;
+}
+
+.carousel__item figcaption {
+  margin-top: 0.75rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.carousel__progress {
+  height: 3px;
+  margin: 1.5rem 0.75rem 0;
+  max-width: 12rem;
+  border-radius: 999px;
+  background: var(--blue-100);
+  overflow: hidden;
+}
+
+.carousel__progress-bar {
+  height: 100%;
+  background: var(--accent);
+  transform: scaleX(0.18);
+  transform-origin: 0 0;
+}
